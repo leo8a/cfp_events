@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:<CFP Calendar>
+BEGIN:VEVENT
+SUMMARY:LFX Mentorship Showcase
+DTSTART;TZID=Europe/Madrid:20221202T000000
+DTEND;TZID=Europe/Madrid:20221202T235959
+DTSTAMP:20221202T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/lfx-mentorship-showcase/
+LOCATION:Virtual
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automotive Grade Linux All Member Meeting Spring
+DTSTART;TZID=Europe/Madrid:20230113T000000
+DTEND;TZID=Europe/Madrid:20230113T235959
+DTSTAMP:20230113T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/agl-amm/
+LOCATION:Berlin\, Germany
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cassandra Summit
+DTSTART;TZID=Europe/Madrid:20221211T000000
+DTEND;TZID=Europe/Madrid:20221211T235959
+DTSTAMP:20221211T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/cassandra-summit/
+LOCATION:San Jose\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red Hat Summit
+DTSTART:20221205T000000Z
+DTEND:20221205T235959Z
+DTSTAMP:20221205T000000Z
+DESCRIPTION:https://www.redhat.com/en/summit
+LOCATION:Boston\, United States
+ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
+END:VEVENT
+END:VCALENDAR
