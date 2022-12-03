@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
-SUMMARY:LFX Mentorship Showcase
-DTSTART;TZID=Europe/Madrid:20221202T000000
-DTEND;TZID=Europe/Madrid:20221202T235959
-DTSTAMP:20221202T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/lfx-mentorship-showcase/
-LOCATION:Virtual
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Automotive Grade Linux All Member Meeting Spring
 DTSTART;TZID=Europe/Madrid:20230113T000000
 DTEND;TZID=Europe/Madrid:20230113T235959
