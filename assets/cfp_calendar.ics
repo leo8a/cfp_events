@@ -11,15 +11,6 @@ LOCATION:Berlin\, Germany
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cassandra Summit
-DTSTART;TZID=Europe/Madrid:20221211T000000
-DTEND;TZID=Europe/Madrid:20221211T235959
-DTSTAMP:20221211T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/cassandra-summit/
-LOCATION:San Jose\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Red Hat Summit
 DTSTART;TZID=Europe/Madrid:20230111T000000
 DTEND;TZID=Europe/Madrid:20230111T235959
