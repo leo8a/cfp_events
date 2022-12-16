@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-git diff assets/cfp_calendar.ics > /tmp/diffs ; [ -s /tmp/diffs ]
+git diff assets/cfp_calendar.ics > /tmp/diffs
 
-if [ $? == '0' ]; then
-  echo "::set-output name=assets_changed::true"
+if [ -s /tmp/diffs ]; then
+  echo "assets_changed=true" >> "$GITHUB_OUTPUT"
 else
-  echo "::set-output name=assets_changed::false"
+  echo "assets_changed=false" >> "$GITHUB_OUTPUT"
 fi
