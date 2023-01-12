@@ -49,6 +49,15 @@ LOCATION:Prague\, Czech Republic
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Red Hat Summit
+DTSTART;TZID=Europe/Madrid:20230111T000000
+DTEND;TZID=Europe/Madrid:20230111T235959
+DTSTAMP:20230111T000000Z
+DESCRIPTION:https://www.redhat.com/en/summit
+LOCATION:Boston\, United States
+ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Red Hat Networking Summit 2023
 DTSTART;TZID=Europe/Madrid:20230203T000000
 DTEND;TZID=Europe/Madrid:20230203T235959
@@ -58,12 +67,12 @@ LOCATION:Virtual
 ORGANIZER;NAME="Red Hat":MAILTO:rh-networking-summit@redhat.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Red Hat Summit
-DTSTART;TZID=Europe/Madrid:20230111T000000
-DTEND;TZID=Europe/Madrid:20230111T235959
-DTSTAMP:20230111T000000Z
-DESCRIPTION:https://www.redhat.com/en/summit
-LOCATION:Boston\, United States
-ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
+SUMMARY:Codemotion Conference Madrid 2023
+DTSTART;TZID=Europe/Madrid:20230222T000000
+DTEND;TZID=Europe/Madrid:20230222T235959
+DTSTAMP:20230222T000000Z
+DESCRIPTION:https://extra.codemotion.com/madrid23-cfp/
+LOCATION:Madrid\, Spain
+ORGANIZER;NAME="Red Hat":MAILTO:speakers@codemotion.it
 END:VEVENT
 END:VCALENDAR
