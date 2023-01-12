@@ -1,0 +1,9 @@
+BEGIN:VEVENT
+SUMMARY:Codemotion Conference Madrid 2023
+DTSTART;TZID=Europe/Madrid:20230222T000000Z
+DTEND;TZID=Europe/Madrid:20230222T235959Z
+DTSTAMP:20230222T000000Z
+DESCRIPTION:https://extra.codemotion.com/madrid23-cfp/
+LOCATION:Madrid\, Spain
+ORGANIZER;NAME="Red Hat":MAILTO:speakers@codemotion.it
+END:VEVENT
