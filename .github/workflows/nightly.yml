@@ -26,6 +26,9 @@ jobs:
       - name: Create iCalendar
         run: python main.py
 
+      - name: Clean out iCalendar
+        run: .github/icalendar_clean.sh
+
       - name: Check modified iCalendar
         id: icalendar_check
         run: .github/icalendar_check.sh
