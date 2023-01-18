@@ -29,6 +29,16 @@ LOCATION:Vancouver\, C
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Linux Security Summit North America
+DTSTART;TZID=Europe/Madrid:20230301T000000
+DTEND;TZID=Europe/Madrid:20230301T235959
+DTSTAMP:20230301T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/linux-security-summit-north
+ -america/
+LOCATION:Vancouver\, C
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Source Summit North America
 DTSTART;TZID=Europe/Madrid:20230205T000000
 DTEND;TZID=Europe/Madrid:20230205T235959
