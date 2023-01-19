@@ -49,6 +49,15 @@ LOCATION:Vancouver\, C
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LF Energy Summit
+DTSTART;TZID=Europe/Madrid:20230217T000000
+DTEND;TZID=Europe/Madrid:20230217T235959
+DTSTAMP:20230217T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/lfenergysummit/
+LOCATION:Paris\, France
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Embedded Open Source Summit
 DTSTART;TZID=Europe/Madrid:20230211T000000
 DTEND;TZID=Europe/Madrid:20230211T235959
