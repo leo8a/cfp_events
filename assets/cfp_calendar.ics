@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
-SUMMARY:Academy Software Foundation Open Source Forum
-DTSTART;TZID=Europe/Madrid:20230120T000000
-DTEND;TZID=Europe/Madrid:20230120T235959
-DTSTAMP:20230120T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/aswf-open-source-forum/
-LOCATION:Los Angeles\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Automotive Grade Linux All Member Meeting Spring
 DTSTART;TZID=Europe/Madrid:20230127T000000
 DTEND;TZID=Europe/Madrid:20230127T235959
 DTSTAMP:20230127T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/agl-amm/
 LOCATION:Berlin\, Germany
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cephalocon
+DTSTART;TZID=Europe/Madrid:20230212T000000
+DTEND;TZID=Europe/Madrid:20230212T235959
+DTSTAMP:20230212T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/cephalocon/
+LOCATION:Amsterdam\, Netherlands
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
