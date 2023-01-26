@@ -20,6 +20,96 @@ LOCATION:Amsterdam\, Netherlands
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ArgoCon
+DTSTART;TZID=Europe/Madrid:20230212T000000
+DTEND;TZID=Europe/Madrid:20230212T235959
+DTSTAMP:20230212T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/cncf-hosted-co-located-events/argocon/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CiliumCon
+DTSTART;TZID=Europe/Madrid:20230212T000000
+DTEND;TZID=Europe/Madrid:20230212T235959
+DTSTAMP:20230212T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/cncf-hosted-co-located-events/ciliumcon/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Native Telco Day
+DTSTART;TZID=Europe/Madrid:20230212T000000
+DTEND;TZID=Europe/Madrid:20230212T235959
+DTSTAMP:20230212T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/cncf-hosted-co-located-events/cloud-native-telco-day/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Native Wasm Day
+DTSTART;TZID=Europe/Madrid:20230212T000000
+DTEND;TZID=Europe/Madrid:20230212T235959
+DTSTAMP:20230212T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/cncf-hosted-co-located-events/cloud-native-wasm-day/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Istio Day
+DTSTART;TZID=Europe/Madrid:20230212T000000
+DTEND;TZID=Europe/Madrid:20230212T235959
+DTSTAMP:20230212T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/cncf-hosted-co-located-events/istio-day/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kubernetes Batch + HPC Day
+DTSTART;TZID=Europe/Madrid:20230212T000000
+DTEND;TZID=Europe/Madrid:20230212T235959
+DTSTAMP:20230212T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/cncf-hosted-co-located-events/kubernetes-batch-hpc-day/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kubernetes on Edge Day
+DTSTART;TZID=Europe/Madrid:20230212T000000
+DTEND;TZID=Europe/Madrid:20230212T235959
+DTSTAMP:20230212T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/cncf-hosted-co-located-events/kubernetes-on-edge-day/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linkerd Day
+DTSTART;TZID=Europe/Madrid:20230212T000000
+DTEND;TZID=Europe/Madrid:20230212T235959
+DTSTAMP:20230212T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/cncf-hosted-co-located-events/linkerd-day/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Observability Day
+DTSTART;TZID=Europe/Madrid:20230212T000000
+DTEND;TZID=Europe/Madrid:20230212T235959
+DTSTAMP:20230212T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/cncf-hosted-co-located-events/observability-day/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:cdCon + GitOpsCon
 DTSTART;TZID=Europe/Madrid:20230210T000000
 DTEND;TZID=Europe/Madrid:20230210T235959
