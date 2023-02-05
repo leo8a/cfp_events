@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
-SUMMARY:Automotive Grade Linux All Member Meeting Spring
-DTSTART;TZID=Europe/Madrid:20230205T000000
-DTEND;TZID=Europe/Madrid:20230205T235959
-DTSTAMP:20230205T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/agl-amm/
-LOCATION:Berlin\, Germany
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cephalocon
 DTSTART;TZID=Europe/Madrid:20230212T000000
 DTEND;TZID=Europe/Madrid:20230212T235959
@@ -143,16 +134,6 @@ DTEND;TZID=Europe/Madrid:20230301T235959
 DTSTAMP:20230301T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/linux-security-summit-north
  -america/
-LOCATION:Vancouver\, C
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Source Summit North America
-DTSTART;TZID=Europe/Madrid:20230205T000000
-DTEND;TZID=Europe/Madrid:20230205T235959
-DTSTAMP:20230205T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/open-source-summit-north-am
- erica/
 LOCATION:Vancouver\, C
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
