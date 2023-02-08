@@ -16,7 +16,7 @@ DTSTART;TZID=Europe/Madrid:20230212T000000
 DTEND;TZID=Europe/Madrid:20230212T235959
 DTSTAMP:20230212T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/cncf-hosted-co-located-events/argocon/
+ pe/co-located-events/argocon/
 LOCATION:Amsterdam\, Netherlands
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
@@ -26,7 +26,7 @@ DTSTART;TZID=Europe/Madrid:20230212T000000
 DTEND;TZID=Europe/Madrid:20230212T235959
 DTSTAMP:20230212T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/cncf-hosted-co-located-events/ciliumcon/
+ pe/co-located-events/ciliumcon/
 LOCATION:Amsterdam\, Netherlands
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
@@ -36,7 +36,7 @@ DTSTART;TZID=Europe/Madrid:20230212T000000
 DTEND;TZID=Europe/Madrid:20230212T235959
 DTSTAMP:20230212T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/cncf-hosted-co-located-events/cloud-native-telco-day/
+ pe/co-located-events/cloud-native-telco-day/
 LOCATION:Amsterdam\, Netherlands
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
@@ -46,7 +46,7 @@ DTSTART;TZID=Europe/Madrid:20230212T000000
 DTEND;TZID=Europe/Madrid:20230212T235959
 DTSTAMP:20230212T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/cncf-hosted-co-located-events/cloud-native-wasm-day/
+ pe/co-located-events/cloud-native-wasm-day/
 LOCATION:Amsterdam\, Netherlands
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
@@ -56,7 +56,7 @@ DTSTART;TZID=Europe/Madrid:20230212T000000
 DTEND;TZID=Europe/Madrid:20230212T235959
 DTSTAMP:20230212T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/cncf-hosted-co-located-events/istio-day/
+ pe/co-located-events/istio-day/
 LOCATION:Amsterdam\, Netherlands
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
@@ -66,7 +66,7 @@ DTSTART;TZID=Europe/Madrid:20230212T000000
 DTEND;TZID=Europe/Madrid:20230212T235959
 DTSTAMP:20230212T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/cncf-hosted-co-located-events/kubernetes-batch-hpc-day/
+ pe/co-located-events/kubernetes-batch-hpc-day/
 LOCATION:Amsterdam\, Netherlands
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
@@ -76,7 +76,7 @@ DTSTART;TZID=Europe/Madrid:20230212T000000
 DTEND;TZID=Europe/Madrid:20230212T235959
 DTSTAMP:20230212T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/cncf-hosted-co-located-events/kubernetes-on-edge-day/
+ pe/co-located-events/kubernetes-on-edge-day/
 LOCATION:Amsterdam\, Netherlands
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
@@ -86,7 +86,7 @@ DTSTART;TZID=Europe/Madrid:20230212T000000
 DTEND;TZID=Europe/Madrid:20230212T235959
 DTSTAMP:20230212T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/cncf-hosted-co-located-events/linkerd-day/
+ pe/co-located-events/linkerd-day/
 LOCATION:Amsterdam\, Netherlands
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
@@ -96,7 +96,7 @@ DTSTART;TZID=Europe/Madrid:20230212T000000
 DTEND;TZID=Europe/Madrid:20230212T235959
 DTSTAMP:20230212T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/cncf-hosted-co-located-events/observability-day/
+ pe/co-located-events/observability-day/
 LOCATION:Amsterdam\, Netherlands
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
