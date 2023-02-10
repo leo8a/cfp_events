@@ -148,9 +148,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Embedded Open Source Summit
-DTSTART;TZID=Europe/Madrid:20230212T000000
-DTEND;TZID=Europe/Madrid:20230212T235959
-DTSTAMP:20230212T001500Z
+DTSTART;TZID=Europe/Madrid:20230228T000000
+DTEND;TZID=Europe/Madrid:20230228T235959
+DTSTAMP:20230228T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/embedded-open-source-summit
  /
 LOCATION:Prague\, Czech Republic
