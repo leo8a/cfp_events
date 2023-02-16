@@ -39,6 +39,15 @@ LOCATION:Paris\, France
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:R/Medicine
+DTSTART;TZID=Europe/Madrid:20230505T000000
+DTEND;TZID=Europe/Madrid:20230505T235959
+DTSTAMP:20230505T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/r-medicine/
+LOCATION:Virtual
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Embedded Open Source Summit
 DTSTART;TZID=Europe/Madrid:20230228T000000
 DTEND;TZID=Europe/Madrid:20230228T235959
