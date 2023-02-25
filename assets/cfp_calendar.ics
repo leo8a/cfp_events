@@ -58,6 +58,15 @@ LOCATION:Prague\, Czech Republic
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Confidential Computing Summit
+DTSTART;TZID=Europe/Madrid:20230415T000000
+DTEND;TZID=Europe/Madrid:20230415T235959
+DTSTAMP:20230415T001500Z
+DESCRIPTION:https://confidentialcomputingsummit.com/
+LOCATION:San Francisco\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Container Days
 DTSTART;TZID=Europe/Madrid:20230331T000000
 DTEND;TZID=Europe/Madrid:20230331T235959
