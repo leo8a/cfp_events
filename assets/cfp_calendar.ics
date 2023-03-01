@@ -11,16 +11,6 @@ LOCATION:Vancouver\, C
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Linux Security Summit North America
-DTSTART;TZID=Europe/Madrid:20230301T000000
-DTEND;TZID=Europe/Madrid:20230301T235959
-DTSTAMP:20230301T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/linux-security-summit-north
- -america/
-LOCATION:Vancouver\, C
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:OpenSSF Day North America
 DTSTART;TZID=Europe/Madrid:20230317T000000
 DTEND;TZID=Europe/Madrid:20230317T235959
@@ -54,6 +44,15 @@ DTEND;TZID=Europe/Madrid:20230415T235959
 DTSTAMP:20230415T001500Z
 DESCRIPTION:https://confidentialcomputingsummit.com/
 LOCATION:San Francisco\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Source Summit Europe
+DTSTART;TZID=Europe/Madrid:20230503T000000
+DTEND;TZID=Europe/Madrid:20230503T235959
+DTSTAMP:20230503T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/open-source-summit-europe/
+LOCATION:Bilbao\, Spai
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
