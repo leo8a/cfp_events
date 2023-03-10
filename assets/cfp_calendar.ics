@@ -21,9 +21,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:R/Medicine
-DTSTART;TZID=Europe/Madrid:20230505T000000
-DTEND;TZID=Europe/Madrid:20230505T235959
-DTSTAMP:20230505T001500Z
+DTSTART;TZID=Europe/Madrid:20230405T000000
+DTEND;TZID=Europe/Madrid:20230405T235959
+DTSTAMP:20230405T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/r-medicine/
 LOCATION:Virtual
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
@@ -56,22 +56,13 @@ LOCATION:Bilbao\, Spai
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Container Days
-DTSTART;TZID=Europe/Madrid:20230331T000000
-DTEND;TZID=Europe/Madrid:20230331T235959
-DTSTAMP:20230331T000000Z
-DESCRIPTION:https://sessionize.com/containerdays-2023
-LOCATION:Hamburg\, Germany
-ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KubeVirt Summit 2023
-DTSTART;TZID=Europe/Madrid:20230202T000000
-DTEND;TZID=Europe/Madrid:20230202T235959
-DTSTAMP:20230202T000000Z
-DESCRIPTION:https://kubevirt.io/summit/
-LOCATION:Virtual
-ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
+SUMMARY:Codemotion Conference Madrid 2023
+DTSTART;TZID=Europe/Madrid:20230222T000000
+DTEND;TZID=Europe/Madrid:20230222T235959
+DTSTAMP:20230222T000000Z
+DESCRIPTION:https://extra.codemotion.com/madrid23-cfp/
+LOCATION:Madrid\, Spain
+ORGANIZER;NAME="Red Hat":MAILTO:speakers@codemotion.it
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Red Hat Summit
@@ -92,12 +83,21 @@ LOCATION:Virtual
 ORGANIZER;NAME="Red Hat":MAILTO:rh-networking-summit@redhat.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Codemotion Conference Madrid 2023
-DTSTART;TZID=Europe/Madrid:20230222T000000
-DTEND;TZID=Europe/Madrid:20230222T235959
-DTSTAMP:20230222T000000Z
-DESCRIPTION:https://extra.codemotion.com/madrid23-cfp/
-LOCATION:Madrid\, Spain
-ORGANIZER;NAME="Red Hat":MAILTO:speakers@codemotion.it
+SUMMARY:Container Days
+DTSTART;TZID=Europe/Madrid:20230331T000000
+DTEND;TZID=Europe/Madrid:20230331T235959
+DTSTAMP:20230331T000000Z
+DESCRIPTION:https://sessionize.com/containerdays-2023
+LOCATION:Hamburg\, Germany
+ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KubeVirt Summit 2023
+DTSTART;TZID=Europe/Madrid:20230202T000000
+DTEND;TZID=Europe/Madrid:20230202T235959
+DTSTAMP:20230202T000000Z
+DESCRIPTION:https://kubevirt.io/summit/
+LOCATION:Virtual
+ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
 END:VEVENT
 END:VCALENDAR
