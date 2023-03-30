@@ -56,6 +56,15 @@ LOCATION:San Francisco\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GraphQLConf
+DTSTART;TZID=Europe/Madrid:20230526T000000
+DTEND;TZID=Europe/Madrid:20230526T235959
+DTSTAMP:20230526T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/graphqlconf/
+LOCATION:San Francisco Bay Area\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Source Summit Europe
 DTSTART;TZID=Europe/Madrid:20230503T000000
 DTEND;TZID=Europe/Madrid:20230503T235959
