@@ -65,6 +65,15 @@ LOCATION:Bilbao\, Spai
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PX4 Developer Summit
+DTSTART;TZID=Europe/Madrid:20230407T000000
+DTEND;TZID=Europe/Madrid:20230407T235959
+DTSTAMP:20230407T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/px4-developer-summit/
+LOCATION:New Orleans\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Red Hat Summit
 DTSTART;TZID=Europe/Madrid:20230111T000000
 DTEND;TZID=Europe/Madrid:20230111T235959
