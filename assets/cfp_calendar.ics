@@ -11,15 +11,6 @@ LOCATION:Vancouver\, C
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PrestoCon Day
-DTSTART;TZID=Europe/Madrid:20230407T000000
-DTEND;TZID=Europe/Madrid:20230407T235959
-DTSTAMP:20230407T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/prestocon-day/
-LOCATION:Virtual
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KubeDay Israel
 DTSTART;TZID=Europe/Madrid:20230423T000000
 DTEND;TZID=Europe/Madrid:20230423T235959
