@@ -8,8 +8,7 @@ on:
 
 
 env:
-  CI_COMMIT_MESSAGE: Nightly CFP Calendar Build
-  CI_COMMIT_AUTHOR: CFP Calendar Bot
+  CI_COMMIT_MESSAGE: 🤖 Nightly CFP Calendar Build
 
 
 jobs:
@@ -36,8 +35,8 @@ jobs:
       - name: Commit and push iCalendar
         if: steps.icalendar_check.outputs.assets_changed == 'true'
         run: |
-          git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
-          git config --global user.email "cfp_calendar@users.noreply.github.com"
+          git config --global user.name "${{ secrets.CI_COMMIT_AUTHOR }}"
+          git config --global user.email "${{ secrets.CI_COMMIT_EMAIL }}"
           git add assets
           git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
           git push
