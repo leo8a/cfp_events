@@ -11,15 +11,6 @@ LOCATION:Vancouver\, C
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cloud Foundry Day
-DTSTART;TZID=Europe/Madrid:20230428T000000
-DTEND;TZID=Europe/Madrid:20230428T235959
-DTSTAMP:20230428T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/cloud-foundry-day/
-LOCATION:Heidelberg\, Germany
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Automotive Grade Linux All Member Meeting Summer
 DTSTART;TZID=Europe/Madrid:20230519T000000
 DTEND;TZID=Europe/Madrid:20230519T235959
