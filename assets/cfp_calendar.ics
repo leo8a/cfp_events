@@ -30,6 +30,16 @@ LOCATION:Bilbao\, Spai
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:KubeCon + CloudNativeCon + Open Source Summit China
+DTSTART;TZID=Europe/Madrid:20230618T000000
+DTEND;TZID=Europe/Madrid:20230618T235959
+DTSTAMP:20230618T001500Z
+DESCRIPTION:https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-s
+ ummit-china/
+LOCATION:Shanghai\, Chi
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PX4 Developer Summit
 DTSTART;TZID=Europe/Madrid:20230709T000000
 DTEND;TZID=Europe/Madrid:20230709T235959
@@ -46,6 +56,16 @@ DTSTAMP:20230623T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/open-source-finance-forum-n
  ew-york/
 LOCATION:New York\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KubeCon + CloudNativeCon North America
+DTSTART;TZID=Europe/Madrid:20230618T000000
+DTEND;TZID=Europe/Madrid:20230618T235959
+DTSTAMP:20230618T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/
+LOCATION:Chicago\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
