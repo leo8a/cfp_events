@@ -96,6 +96,15 @@ LOCATION:Chicago\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Source Summit Japan
+DTSTART;TZID=Europe/Madrid:20230910T000000
+DTEND;TZID=Europe/Madrid:20230910T235959
+DTSTAMP:20230910T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/open-source-summit-japan/
+LOCATION:Tokyo\, Jap
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Compliance Summit
 DTSTART;TZID=Europe/Madrid:20231001T000000
 DTEND;TZID=Europe/Madrid:20231001T235959
