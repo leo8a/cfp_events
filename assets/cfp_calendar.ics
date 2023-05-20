@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
 SUMMARY:Automotive Grade Linux All Member Meeting Summer
-DTSTART;TZID=Europe/Madrid:20230519T000000
-DTEND;TZID=Europe/Madrid:20230519T235959
-DTSTAMP:20230519T001500Z
+DTSTART;TZID=Europe/Madrid:20230526T000000
+DTEND;TZID=Europe/Madrid:20230526T235959
+DTSTAMP:20230526T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/agl-amm-summer/
 LOCATION:Tokyo\, Jap
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
