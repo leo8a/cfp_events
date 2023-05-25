@@ -20,6 +20,15 @@ LOCATION:Los Angeles\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WasmCon
+DTSTART;TZID=Europe/Madrid:20230725T000000
+DTEND;TZID=Europe/Madrid:20230725T235959
+DTSTAMP:20230725T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/wasmcon/
+LOCATION:Bellevue\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GraphQLConf
 DTSTART;TZID=Europe/Madrid:20230526T000000
 DTEND;TZID=Europe/Madrid:20230526T235959
