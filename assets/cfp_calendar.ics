@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
-SUMMARY:Automotive Grade Linux All Member Meeting Summer
-DTSTART;TZID=Europe/Madrid:20230526T000000
-DTEND;TZID=Europe/Madrid:20230526T235959
-DTSTAMP:20230526T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/agl-amm-summer/
-LOCATION:Tokyo\, Jap
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Open Source Days
 DTSTART;TZID=Europe/Madrid:20230609T000000
 DTEND;TZID=Europe/Madrid:20230609T235959
@@ -26,15 +17,6 @@ DTEND;TZID=Europe/Madrid:20230725T235959
 DTSTAMP:20230725T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/wasmcon/
 LOCATION:Bellevue\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GraphQLConf
-DTSTART;TZID=Europe/Madrid:20230526T000000
-DTEND;TZID=Europe/Madrid:20230526T235959
-DTSTAMP:20230526T001500Z
-DESCRIPTION:https://graphql.org/conf/
-LOCATION:San Francisco Bay Area\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
