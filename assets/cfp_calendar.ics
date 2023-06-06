@@ -38,16 +38,6 @@ LOCATION:San Francisco Bay Area\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Linux Security Summit Europe
-DTSTART;TZID=Europe/Madrid:20230605T000000
-DTEND;TZID=Europe/Madrid:20230605T235959
-DTSTAMP:20230605T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/linux-security-summit-europ
- e/
-LOCATION:Bilbao\, Spai
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KubeCon + CloudNativeCon + Open Source Summit China
 DTSTART;TZID=Europe/Madrid:20230618T000000
 DTEND;TZID=Europe/Madrid:20230618T235959
@@ -120,6 +110,15 @@ DTEND;TZID=Europe/Madrid:20230910T235959
 DTSTAMP:20230910T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/open-source-summit-japan/
 LOCATION:Tokyo\, Jap
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PrestoCon
+DTSTART;TZID=Europe/Madrid:20230901T000000
+DTEND;TZID=Europe/Madrid:20230901T235959
+DTSTAMP:20230901T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/prestocon/
+LOCATION:Mountain View\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
