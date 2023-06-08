@@ -20,11 +20,11 @@ LOCATION:Bellevue\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DPDK Userspace Summit
+SUMMARY:DPDK Summit
 DTSTART;TZID=Europe/Madrid:20230630T000000
 DTEND;TZID=Europe/Madrid:20230630T235959
 DTSTAMP:20230630T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/dpdk-userspace-summit/
+DESCRIPTION:https://events.linuxfoundation.org/dpdk-summit/
 LOCATION:Dublin\, Irel
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
