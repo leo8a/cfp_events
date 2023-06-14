@@ -2,6 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
+SUMMARY:Rust Global
+DTSTART;TZID=Europe/Madrid:20230718T000000
+DTEND;TZID=Europe/Madrid:20230718T235959
+DTSTAMP:20230718T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/rust-global/
+LOCATION:Bellevue\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WasmCon
 DTSTART;TZID=Europe/Madrid:20230725T000000
 DTEND;TZID=Europe/Madrid:20230725T235959
@@ -131,13 +140,13 @@ LOCATION:Tokyo\, Jap
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Container Days
-DTSTART;TZID=Europe/Madrid:20230331T000000
-DTEND;TZID=Europe/Madrid:20230331T235959
-DTSTAMP:20230331T000000Z
-DESCRIPTION:https://sessionize.com/containerdays-2023
-LOCATION:Hamburg\, Germany
-ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
+SUMMARY:Codemotion Conference Madrid 2023
+DTSTART;TZID=Europe/Madrid:20230222T000000
+DTEND;TZID=Europe/Madrid:20230222T235959
+DTSTAMP:20230222T000000Z
+DESCRIPTION:https://extra.codemotion.com/madrid23-cfp/
+LOCATION:Madrid\, Spain
+ORGANIZER;NAME="Red Hat":MAILTO:speakers@codemotion.it
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Red Hat Summit
@@ -167,12 +176,12 @@ LOCATION:Virtual
 ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Codemotion Conference Madrid 2023
-DTSTART;TZID=Europe/Madrid:20230222T000000
-DTEND;TZID=Europe/Madrid:20230222T235959
-DTSTAMP:20230222T000000Z
-DESCRIPTION:https://extra.codemotion.com/madrid23-cfp/
-LOCATION:Madrid\, Spain
-ORGANIZER;NAME="Red Hat":MAILTO:speakers@codemotion.it
+SUMMARY:Container Days
+DTSTART;TZID=Europe/Madrid:20230331T000000
+DTEND;TZID=Europe/Madrid:20230331T235959
+DTSTAMP:20230331T000000Z
+DESCRIPTION:https://sessionize.com/containerdays-2023
+LOCATION:Hamburg\, Germany
+ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
 END:VEVENT
 END:VCALENDAR
