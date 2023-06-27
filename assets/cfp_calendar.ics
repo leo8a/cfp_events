@@ -65,6 +65,136 @@ LOCATION:Monterey\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AppDeveloperCon
+DTSTART;TZID=Europe/Madrid:20230806T000000
+DTEND;TZID=Europe/Madrid:20230806T235959
+DTSTAMP:20230806T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/appdevelopercon/
+LOCATION:Chicago\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ArgoCon
+DTSTART;TZID=Europe/Madrid:20230806T000000
+DTEND;TZID=Europe/Madrid:20230806T235959
+DTSTAMP:20230806T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/argocon/
+LOCATION:Chicago\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BackstageCon
+DTSTART;TZID=Europe/Madrid:20230806T000000
+DTEND;TZID=Europe/Madrid:20230806T235959
+DTSTAMP:20230806T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/backstagecon/
+LOCATION:Chicago\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CiliumCon
+DTSTART;TZID=Europe/Madrid:20230806T000000
+DTEND;TZID=Europe/Madrid:20230806T235959
+DTSTAMP:20230806T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/ciliumcon/
+LOCATION:Chicago\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Native Wasm Day
+DTSTART;TZID=Europe/Madrid:20230806T000000
+DTEND;TZID=Europe/Madrid:20230806T235959
+DTSTAMP:20230806T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/cloud-native-wasm-day/
+LOCATION:Chicago\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data on Kubernetes Day
+DTSTART;TZID=Europe/Madrid:20230806T000000
+DTEND;TZID=Europe/Madrid:20230806T235959
+DTSTAMP:20230806T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/data-on-kubernetes-day/
+LOCATION:Chicago\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DBaaS DevDay
+DTSTART;TZID=Europe/Madrid:20230806T000000
+DTEND;TZID=Europe/Madrid:20230806T235959
+DTSTAMP:20230806T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/dbaas-devday/
+LOCATION:Chicago\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EnvoyCon
+DTSTART;TZID=Europe/Madrid:20230806T000000
+DTEND;TZID=Europe/Madrid:20230806T235959
+DTSTAMP:20230806T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/envoycon/
+LOCATION:Chicago\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Istio Day
+DTSTART;TZID=Europe/Madrid:20230806T000000
+DTEND;TZID=Europe/Madrid:20230806T235959
+DTSTAMP:20230806T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/istio-day/
+LOCATION:Chicago\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kubernetes AI + HPC Day
+DTSTART;TZID=Europe/Madrid:20230806T000000
+DTEND;TZID=Europe/Madrid:20230806T235959
+DTSTAMP:20230806T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/kubernetes-ai-hpc-day/
+LOCATION:Chicago\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kubernetes on Edge Day
+DTSTART;TZID=Europe/Madrid:20230806T000000
+DTEND;TZID=Europe/Madrid:20230806T235959
+DTSTAMP:20230806T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/kubernetes-on-edge-day/
+LOCATION:Chicago\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Multi-TenancyCon
+DTSTART;TZID=Europe/Madrid:20230806T000000
+DTEND;TZID=Europe/Madrid:20230806T235959
+DTSTAMP:20230806T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/multi-tenancycon/
+LOCATION:Chicago\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Observability Day
+DTSTART;TZID=Europe/Madrid:20230806T000000
+DTEND;TZID=Europe/Madrid:20230806T235959
+DTSTAMP:20230806T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/observability-day/
+LOCATION:Chicago\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RISC-V Summit
 DTSTART;TZID=Europe/Madrid:20230714T000000
 DTEND;TZID=Europe/Madrid:20230714T235959
