@@ -29,7 +29,7 @@ LOCATION:Bilbao\, Spai
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:gRPC Conf 2023
+SUMMARY:gRPC Conf
 DTSTART;TZID=Europe/Madrid:20230709T000000
 DTEND;TZID=Europe/Madrid:20230709T235959
 DTSTAMP:20230709T001500Z
@@ -101,6 +101,16 @@ DTEND;TZID=Europe/Madrid:20230806T235959
 DTSTAMP:20230806T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
  h-america/co-located-events/ciliumcon/
+LOCATION:Chicago\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Native Telco Day
+DTSTART;TZID=Europe/Madrid:20230806T000000
+DTEND;TZID=Europe/Madrid:20230806T235959
+DTSTAMP:20230806T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/cloud-native-telco-day/
 LOCATION:Chicago\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
