@@ -11,6 +11,15 @@ LOCATION:Bellevue\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DPDK Summit
+DTSTART;TZID=Europe/Madrid:20230707T000000
+DTEND;TZID=Europe/Madrid:20230707T235959
+DTSTAMP:20230707T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/dpdk-summit/
+LOCATION:Dublin\, Irel
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OpenSSF Day Europe
 DTSTART;TZID=Europe/Madrid:20230707T000000
 DTEND;TZID=Europe/Madrid:20230707T235959
