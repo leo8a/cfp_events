@@ -170,9 +170,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RISC-V Summit
-DTSTART;TZID=Europe/Madrid:20230714T000000
-DTEND;TZID=Europe/Madrid:20230714T235959
-DTSTAMP:20230714T001500Z
+DTSTART;TZID=Europe/Madrid:20230717T000000
+DTEND;TZID=Europe/Madrid:20230717T235959
+DTSTAMP:20230717T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/riscv-summit/
 LOCATION:Santa Clara\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
