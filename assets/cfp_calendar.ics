@@ -160,15 +160,6 @@ LOCATION:Chicago\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RISC-V Summit
-DTSTART;TZID=Europe/Madrid:20230717T000000
-DTEND;TZID=Europe/Madrid:20230717T235959
-DTSTAMP:20230717T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/riscv-summit/
-LOCATION:Santa Clara\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Open Source Summit Japan
 DTSTART;TZID=Europe/Madrid:20230910T000000
 DTEND;TZID=Europe/Madrid:20230910T235959
