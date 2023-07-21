@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
-SUMMARY:PyTorch Conference
-DTSTART;TZID=Europe/Madrid:20230721T000000
-DTEND;TZID=Europe/Madrid:20230721T235959
-DTSTAMP:20230721T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/pytorch-conference/
-LOCATION:San Francisco\, United States
+SUMMARY:IstioCon
+DTSTART;TZID=Europe/Madrid:20230723T000000
+DTEND;TZID=Europe/Madrid:20230723T235959
+DTSTAMP:20230723T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/istiocon/
+LOCATION:Virtual
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
