@@ -178,6 +178,15 @@ LOCATION:Tokyo\, Jap
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:KubeDay India
+DTSTART;TZID=Europe/Madrid:20230807T000000
+DTEND;TZID=Europe/Madrid:20230807T235959
+DTSTAMP:20230807T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubeday-india/
+LOCATION:Bengaluru\, Indi
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Container Days
 DTSTART;TZID=Europe/Madrid:20230331T000000
 DTEND;TZID=Europe/Madrid:20230331T235959
