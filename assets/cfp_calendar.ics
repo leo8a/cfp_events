@@ -30,11 +30,20 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KubeDay India
-DTSTART;TZID=Europe/Madrid:20230807T000000
-DTEND;TZID=Europe/Madrid:20230807T235959
-DTSTAMP:20230807T001500Z
+DTSTART;TZID=Europe/Madrid:20230918T000000
+DTEND;TZID=Europe/Madrid:20230918T235959
+DTSTAMP:20230918T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/kubeday-india/
 LOCATION:Bengaluru\, Indi
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KubeDay Singapore
+DTSTART;TZID=Europe/Madrid:20230918T000000
+DTEND;TZID=Europe/Madrid:20230918T235959
+DTSTAMP:20230918T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubeday-singapore/
+LOCATION:Singapore\, Singapore
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
