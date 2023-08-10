@@ -2,6 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
+SUMMARY:LFN Developer & Testing Forum
+DTSTART;TZID=Europe/Madrid:20231116T000000
+DTEND;TZID=Europe/Madrid:20231116T235959
+DTSTAMP:20231116T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/lfn-developer-testing-forum
+ /
+LOCATION:Budapest\, Hungary
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Source Summit Japan
 DTSTART;TZID=Europe/Madrid:20230910T000000
 DTEND;TZID=Europe/Madrid:20230910T235959
