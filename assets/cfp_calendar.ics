@@ -39,6 +39,15 @@ LOCATION:Tokyo\, Jap
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PrestoCon
+DTSTART;TZID=Europe/Madrid:20230914T000000
+DTEND;TZID=Europe/Madrid:20230914T235959
+DTSTAMP:20230914T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/prestocon/
+LOCATION:Mountain View\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Compliance Summit
 DTSTART;TZID=Europe/Madrid:20231001T000000
 DTEND;TZID=Europe/Madrid:20231001T235959
