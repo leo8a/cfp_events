@@ -39,21 +39,22 @@ LOCATION:Tokyo\, Jap
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KubeDay India
-DTSTART;TZID=Europe/Madrid:20230918T000000
-DTEND;TZID=Europe/Madrid:20230918T235959
-DTSTAMP:20230918T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubeday-india/
-LOCATION:Bengaluru\, Indi
+SUMMARY:KubeCon + CloudNativeCon Europe
+DTSTART;TZID=Europe/Madrid:20231126T000000
+DTEND;TZID=Europe/Madrid:20231126T235959
+DTSTAMP:20231126T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/
+LOCATION:Paris\, France
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KubeDay Singapore
-DTSTART;TZID=Europe/Madrid:20230918T000000
-DTEND;TZID=Europe/Madrid:20230918T235959
-DTSTAMP:20230918T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubeday-singapore/
-LOCATION:Singapore\, Singapore
+SUMMARY:ONE Summit
+DTSTART;TZID=Europe/Madrid:20231203T000000
+DTEND;TZID=Europe/Madrid:20231203T235959
+DTSTAMP:20231203T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/one-summit-north-america/
+LOCATION:San Jose\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
