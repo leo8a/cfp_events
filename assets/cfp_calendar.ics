@@ -12,24 +12,6 @@ LOCATION:Budapest\, Hungary
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AI.dev: Open Source GenAI & ML Summit North America
-DTSTART;TZID=Europe/Madrid:20231023T000000
-DTEND;TZID=Europe/Madrid:20231023T235959
-DTSTAMP:20231023T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/ai-dev-north-america/
-LOCATION:San Jose\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cassandra Summit
-DTSTART;TZID=Europe/Madrid:20231023T000000
-DTEND;TZID=Europe/Madrid:20231023T235959
-DTSTAMP:20231023T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/cassandra-summit/
-LOCATION:San Jose\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KubeCon + CloudNativeCon Europe
 DTSTART;TZID=Europe/Madrid:20231126T000000
 DTEND;TZID=Europe/Madrid:20231126T235959
