@@ -2,13 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
-SUMMARY:LFN Developer & Testing Forum
-DTSTART;TZID=Europe/Madrid:20231116T000000
-DTEND;TZID=Europe/Madrid:20231116T235959
-DTSTAMP:20231116T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/lfn-developer-testing-forum
- /
-LOCATION:Budapest\, Hungary
+SUMMARY:Open Source Forum
+DTSTART;TZID=Europe/Madrid:20231127T000000
+DTEND;TZID=Europe/Madrid:20231127T235959
+DTSTAMP:20231127T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/aswf-open-source-forum/
+LOCATION:Los Angeles\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automotive Grade Linux All Member Meeting Spring
+DTSTART;TZID=Europe/Madrid:20240121T000000
+DTEND;TZID=Europe/Madrid:20240121T235959
+DTSTAMP:20240121T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/agl-amm/
+LOCATION:Tokyo\, Jap
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
@@ -178,6 +186,15 @@ DTEND;TZID=Europe/Madrid:20231203T235959
 DTSTAMP:20231203T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/one-summit-north-america/
 LOCATION:San Jose\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automotive Grade Linux All Member Meeting Summer
+DTSTART;TZID=Europe/Madrid:20240219T000000
+DTEND;TZID=Europe/Madrid:20240219T235959
+DTSTAMP:20240219T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/agl-amm-summer/
+LOCATION:Berlin\, Germany
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
