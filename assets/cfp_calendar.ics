@@ -13,9 +13,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Source Forum
-DTSTART;TZID=Europe/Madrid:20231127T000000
-DTEND;TZID=Europe/Madrid:20231127T235959
-DTSTAMP:20231127T001500Z
+DTSTART;TZID=Europe/Madrid:20240112T000000
+DTEND;TZID=Europe/Madrid:20240112T235959
+DTSTAMP:20240112T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/aswf-open-source-forum/
 LOCATION:Los Angeles\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
@@ -177,6 +177,16 @@ DTSTAMP:20231203T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
  pe/co-located-events/thanoscon/
 LOCATION:Paris\, France
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Embedded Open Source Summit
+DTSTART;TZID=Europe/Madrid:20240114T000000
+DTEND;TZID=Europe/Madrid:20240114T235959
+DTSTAMP:20240114T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/embedded-open-source-summit
+ /
+LOCATION:Seattle\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
