@@ -60,15 +60,6 @@ LOCATION:Seattle\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ONE Summit
-DTSTART;TZID=Europe/Madrid:20231217T000000
-DTEND;TZID=Europe/Madrid:20231217T235959
-DTSTAMP:20231217T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/one-summit-north-america/
-LOCATION:San Jose\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Automotive Grade Linux All Member Meeting Summer
 DTSTART;TZID=Europe/Madrid:20240219T000000
 DTEND;TZID=Europe/Madrid:20240219T235959
