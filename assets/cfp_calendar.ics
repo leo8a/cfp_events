@@ -13,9 +13,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Source Forum
-DTSTART;TZID=Europe/Madrid:20240112T000000
-DTEND;TZID=Europe/Madrid:20240112T235959
-DTSTAMP:20240112T001500Z
+DTSTART;TZID=Europe/Madrid:20240108T000000
+DTEND;TZID=Europe/Madrid:20240108T235959
+DTSTAMP:20240108T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/aswf-open-source-forum/
 LOCATION:Los Angeles\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
@@ -57,6 +57,24 @@ DTSTAMP:20240121T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/linux-security-summit-north
  -america/
 LOCATION:Seattle\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xen Project Summit
+DTSTART;TZID=Europe/Madrid:20240303T000000
+DTEND;TZID=Europe/Madrid:20240303T235959
+DTSTAMP:20240303T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/xen-project-summit/
+LOCATION:Lisbon\, Portugal
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:useR!
+DTSTART;TZID=Europe/Madrid:20240310T000000
+DTEND;TZID=Europe/Madrid:20240310T235959
+DTSTAMP:20240310T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/user/
+LOCATION:Salzburg\, Austri
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
