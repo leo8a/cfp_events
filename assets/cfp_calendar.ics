@@ -67,6 +67,16 @@ LOCATION:Lisbon\, Portugal
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CloudNativeSecurityCon North America
+DTSTART;TZID=Europe/Madrid:20240331T000000
+DTEND;TZID=Europe/Madrid:20240331T235959
+DTSTAMP:20240331T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/cloudnativesecuritycon-nort
+ h-america/
+LOCATION:Seattle\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:useR!
 DTSTART;TZID=Europe/Madrid:20240310T000000
 DTEND;TZID=Europe/Madrid:20240310T235959
