@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
-SUMMARY:Automotive Grade Linux All Member Meeting Spring
-DTSTART;TZID=Europe/Madrid:20240121T000000
-DTEND;TZID=Europe/Madrid:20240121T235959
-DTSTAMP:20240121T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/agl-amm/
-LOCATION:Tokyo\, Jap
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Container Plumbing Days
 DTSTART;TZID=Europe/Madrid:20240206T000000
 DTEND;TZID=Europe/Madrid:20240206T235959
