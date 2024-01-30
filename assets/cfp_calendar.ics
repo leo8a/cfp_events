@@ -49,6 +49,16 @@ LOCATION:Salt Lake City\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:StrimziCon
+DTSTART;TZID=Europe/Madrid:20240310T000000
+DTEND;TZID=Europe/Madrid:20240310T235959
+DTSTAMP:20240310T001500Z
+DESCRIPTION:https://community.cncf.io/events/details/cncf-virtual-project-
+ events-2024-hosted-by-cncf-presents-strimzicon-2024-virtual/
+LOCATION:Virtual
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Xen Project Summit
 DTSTART;TZID=Europe/Madrid:20240303T000000
 DTEND;TZID=Europe/Madrid:20240303T235959
