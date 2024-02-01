@@ -77,6 +77,15 @@ LOCATION:Paris\, France
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WasmCon
+DTSTART;TZID=Europe/Madrid:20240331T000000
+DTEND;TZID=Europe/Madrid:20240331T235959
+DTSTAMP:20240331T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/wasmcon/
+LOCATION:Seattle\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CloudNativeSecurityCon North America
 DTSTART;TZID=Europe/Madrid:20240331T000000
 DTEND;TZID=Europe/Madrid:20240331T235959
@@ -105,6 +114,16 @@ LOCATION:Berlin\, Germany
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Linux Security Summit Europe
+DTSTART;TZID=Europe/Madrid:20240519T000000
+DTEND;TZID=Europe/Madrid:20240519T235959
+DTSTAMP:20240519T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/linux-security-summit-europ
+ e/
+LOCATION:Vienna\, Austri
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Source Summit Europe
 DTSTART;TZID=Europe/Madrid:20240430T000000
 DTEND;TZID=Europe/Madrid:20240430T235959
@@ -112,6 +131,15 @@ DTSTAMP:20240430T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/open-source-summit-europe/
 LOCATION:Vienna\, Austri
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Container Days
+DTSTART;TZID=Europe/Madrid:20230331T000000
+DTEND;TZID=Europe/Madrid:20230331T235959
+DTSTAMP:20230331T000000Z
+DESCRIPTION:https://sessionize.com/containerdays-2023
+LOCATION:Hamburg\, Germany
+ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Codemotion Conference Madrid 2023
@@ -147,15 +175,6 @@ DTEND;TZID=Europe/Madrid:20230202T235959
 DTSTAMP:20230202T000000Z
 DESCRIPTION:https://kubevirt.io/summit/
 LOCATION:Virtual
-ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Container Days
-DTSTART;TZID=Europe/Madrid:20230331T000000
-DTEND;TZID=Europe/Madrid:20230331T235959
-DTSTAMP:20230331T000000Z
-DESCRIPTION:https://sessionize.com/containerdays-2023
-LOCATION:Hamburg\, Germany
 ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
 END:VEVENT
 END:VCALENDAR
