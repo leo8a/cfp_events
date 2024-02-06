@@ -11,15 +11,6 @@ LOCATION:Seattle\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GitOpsCon North America
-DTSTART;TZID=Europe/Madrid:20240204T000000
-DTEND;TZID=Europe/Madrid:20240204T235959
-DTSTAMP:20240204T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/gitopscon-north-america/
-LOCATION:Seattle\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SOSS Community Day North America
 DTSTART;TZID=Europe/Madrid:20240209T000000
 DTEND;TZID=Europe/Madrid:20240209T235959
@@ -31,9 +22,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linux Security Summit North America
-DTSTART;TZID=Europe/Madrid:20240204T000000
-DTEND;TZID=Europe/Madrid:20240204T235959
-DTSTAMP:20240204T001500Z
+DTSTART;TZID=Europe/Madrid:20240206T000000
+DTEND;TZID=Europe/Madrid:20240206T235959
+DTSTAMP:20240206T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/linux-security-summit-north
  -america/
 LOCATION:Seattle\, United States
@@ -46,6 +37,16 @@ DTEND;TZID=Europe/Madrid:20240301T235959
 DTSTAMP:20240301T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/lsfmmbpf/
 LOCATION:Salt Lake City\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Foundry Day North America
+DTSTART;TZID=Europe/Madrid:20240303T000000
+DTEND;TZID=Europe/Madrid:20240303T235959
+DTSTAMP:20240303T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/cloud-foundry-day-north-ame
+ rica/
+LOCATION:New York\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
