@@ -115,6 +115,15 @@ LOCATION:Vienna\, Austri
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AI_dev: Open Source GenAI & ML Summit North America
+DTSTART;TZID=Europe/Madrid:20240702T000000
+DTEND;TZID=Europe/Madrid:20240702T235959
+DTSTAMP:20240702T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/ai-dev-north-america/
+LOCATION:Seattle\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Codemotion Conference Madrid 2023
 DTSTART;TZID=Europe/Madrid:20230222T000000
 DTEND;TZID=Europe/Madrid:20230222T235959
