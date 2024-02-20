@@ -88,9 +88,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Automotive Grade Linux All Member Meeting Summer
-DTSTART;TZID=Europe/Madrid:20240219T000000
-DTEND;TZID=Europe/Madrid:20240219T235959
-DTSTAMP:20240219T001500Z
+DTSTART;TZID=Europe/Madrid:20240510T000000
+DTEND;TZID=Europe/Madrid:20240510T235959
+DTSTAMP:20240510T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/agl-amm-summer/
 LOCATION:Berlin\, Germany
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
