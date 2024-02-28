@@ -115,6 +115,15 @@ LOCATION:Vienna\, Austri
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cloud Foundry Day Europe
+DTSTART;TZID=Europe/Madrid:20240714T000000
+DTEND;TZID=Europe/Madrid:20240714T235959
+DTSTAMP:20240714T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/cloud-foundry-day-europe/
+LOCATION:Karlsruhe\, Germany
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AI_dev: Open Source GenAI & ML Summit North America
 DTSTART;TZID=Europe/Madrid:20240702T000000
 DTEND;TZID=Europe/Madrid:20240702T235959
