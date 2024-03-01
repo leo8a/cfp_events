@@ -58,6 +58,16 @@ LOCATION:Seattle\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OTel Community Day
+DTSTART;TZID=Europe/Madrid:20240401T000000
+DTEND;TZID=Europe/Madrid:20240401T235959
+DTSTAMP:20240401T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/open-telemetry-community-da
+ y/
+LOCATION:Seattle\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CloudNativeSecurityCon North America
 DTSTART;TZID=Europe/Madrid:20240331T000000
 DTEND;TZID=Europe/Madrid:20240331T235959
