@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
-SUMMARY:Linux Storage\, Filesystem\, MM & BPF Summit
-DTSTART;TZID=Europe/Madrid:20240301T000000
-DTEND;TZID=Europe/Madrid:20240301T235959
-DTSTAMP:20240301T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/lsfmmbpf/
-LOCATION:Salt Lake City\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cloud Foundry Day North America
 DTSTART;TZID=Europe/Madrid:20240303T000000
 DTEND;TZID=Europe/Madrid:20240303T235959
