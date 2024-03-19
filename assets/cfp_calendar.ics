@@ -31,31 +31,31 @@ LOCATION:Seattle\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Open Source in Finance Forum London
-DTSTART;TZID=Europe/Madrid:20240317T000000
-DTEND;TZID=Europe/Madrid:20240317T235959
-DTSTAMP:20240317T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/open-source-finance-forum-l
- ondon/
-LOCATION:London\, Engl
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:useR!
-DTSTART;TZID=Europe/Madrid:20240317T000000
-DTEND;TZID=Europe/Madrid:20240317T235959
-DTSTAMP:20240317T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/user/
-LOCATION:Salzburg\, Austri
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Automotive Grade Linux All Member Meeting Summer
 DTSTART;TZID=Europe/Madrid:20240512T000000
 DTEND;TZID=Europe/Madrid:20240512T235959
 DTSTAMP:20240512T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/agl-amm-summer/
 LOCATION:Berlin\, Germany
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KubeCon + CloudNativeCon + Open Source Summit + AI_dev China
+DTSTART;TZID=Europe/Madrid:20260505T000000
+DTEND;TZID=Europe/Madrid:20260505T235959
+DTSTAMP:20260505T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-open
+ -source-summit-ai-dev-china/
+LOCATION:Hong Kong\, Chi
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KubeDay Japan
+DTSTART;TZID=Europe/Madrid:20240519T000000
+DTEND;TZID=Europe/Madrid:20240519T235959
+DTSTAMP:20240519T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubeday-japan/
+LOCATION:Tokyo\, Jap
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
@@ -102,6 +102,16 @@ DTEND;TZID=Europe/Madrid:20240712T235959
 DTSTAMP:20240712T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/soss-fusion/
 LOCATION:Atlanta\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KubeCon + CloudNativeCon North America
+DTSTART;TZID=Europe/Madrid:20240906T000000
+DTEND;TZID=Europe/Madrid:20240906T235959
+DTSTAMP:20240906T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/
+LOCATION:Salt Lake City\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
