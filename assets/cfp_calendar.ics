@@ -60,6 +60,15 @@ LOCATION:Hong Kong\, Chi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:gRPConf
+DTSTART;TZID=Europe/Madrid:20240519T000000
+DTEND;TZID=Europe/Madrid:20240519T235959
+DTSTAMP:20240519T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/grpconf/
+LOCATION:Sunnyvale\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:KubeDay Japan
 DTSTART;TZID=Europe/Madrid:20240519T000000
 DTEND;TZID=Europe/Madrid:20240519T235959
