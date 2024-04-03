@@ -21,16 +21,6 @@ LOCATION:Seattle\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OTel Community Day
-DTSTART;TZID=Europe/Madrid:20240401T000000
-DTEND;TZID=Europe/Madrid:20240401T235959
-DTSTAMP:20240401T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/open-telemetry-community-da
- y/
-LOCATION:Seattle\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Automotive Grade Linux All Member Meeting Summer
 DTSTART;TZID=Europe/Madrid:20240512T000000
 DTEND;TZID=Europe/Madrid:20240512T235959
@@ -142,9 +132,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KubeCon + CloudNativeCon North America
-DTSTART;TZID=Europe/Madrid:20240906T000000
-DTEND;TZID=Europe/Madrid:20240906T235959
-DTSTAMP:20240906T001500Z
+DTSTART;TZID=Europe/Madrid:20240609T000000
+DTEND;TZID=Europe/Madrid:20240609T235959
+DTSTAMP:20240609T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
  h-america/
 LOCATION:Salt Lake City\, United States
