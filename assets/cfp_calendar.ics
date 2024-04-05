@@ -12,15 +12,6 @@ LOCATION:San Jose\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WasmCon
-DTSTART;TZID=Europe/Madrid:20240403T000000
-DTEND;TZID=Europe/Madrid:20240403T235959
-DTSTAMP:20240403T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/wasmcon/
-LOCATION:Seattle\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Automotive Grade Linux All Member Meeting Summer
 DTSTART;TZID=Europe/Madrid:20240512T000000
 DTEND;TZID=Europe/Madrid:20240512T235959
@@ -40,9 +31,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KubeCon + CloudNativeCon + Open Source Summit + AI_dev China
-DTSTART;TZID=Europe/Madrid:20260505T000000
-DTEND;TZID=Europe/Madrid:20260505T235959
-DTSTAMP:20260505T001500Z
+DTSTART;TZID=Europe/Madrid:20240505T000000
+DTEND;TZID=Europe/Madrid:20240505T235959
+DTSTAMP:20240505T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-open
  -source-summit-ai-dev-china/
 LOCATION:Hong Kong\, Chi
@@ -64,6 +55,15 @@ DTEND;TZID=Europe/Madrid:20240519T235959
 DTSTAMP:20240519T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/kubeday-japan/
 LOCATION:Tokyo\, Jap
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LF Energy Summit
+DTSTART;TZID=Europe/Madrid:20240519T000000
+DTEND;TZID=Europe/Madrid:20240519T235959
+DTSTAMP:20240519T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/lfenergysummit/
+LOCATION:Brussels\, Belgium
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
