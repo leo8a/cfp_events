@@ -157,6 +157,15 @@ LOCATION:Tokyo\, Jap
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WasmCon
+DTSTART;TZID=Europe/Madrid:20240515T000000
+DTEND;TZID=Europe/Madrid:20240515T235959
+DTSTAMP:20240515T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/wasmcon/
+LOCATION:Salt Lake City\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:KubeCon + CloudNativeCon North America
 DTSTART;TZID=Europe/Madrid:20240609T000000
 DTEND;TZID=Europe/Madrid:20240609T235959
