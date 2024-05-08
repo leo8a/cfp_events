@@ -2,6 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
+SUMMARY:DPDK Summit APAC
+DTSTART;TZID=Europe/Madrid:20240603T000000
+DTEND;TZID=Europe/Madrid:20240603T235959
+DTSTAMP:20240603T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/dpdk-summit-apac/
+LOCATION:Bangkok\, Thail
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Automotive Grade Linux All Member Meeting Summer
 DTSTART;TZID=Europe/Madrid:20240512T000000
 DTEND;TZID=Europe/Madrid:20240512T235959
@@ -53,6 +62,16 @@ DTEND;TZID=Europe/Madrid:20240522T235959
 DTSTAMP:20240522T001500Z
 DESCRIPTION:https://graphql.org/conf/2024/
 LOCATION:San Francisco\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LitmusChaosCon
+DTSTART;TZID=Europe/Madrid:20240624T000000
+DTEND;TZID=Europe/Madrid:20240624T235959
+DTSTAMP:20240624T001500Z
+DESCRIPTION:https://community.cncf.io/events/details/cncf-virtual-project-
+ events-2024-hosted-by-cncf-presents-litmuschaoscon-virtual/
+LOCATION:Virtual
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
