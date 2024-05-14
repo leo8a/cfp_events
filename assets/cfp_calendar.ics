@@ -20,15 +20,6 @@ LOCATION:Berlin\, Germany
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Open Source Days
-DTSTART;TZID=Europe/Madrid:20240512T000000
-DTEND;TZID=Europe/Madrid:20240512T235959
-DTSTAMP:20240512T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/open-source-days/
-LOCATION:Denver\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:gRPConf
 DTSTART;TZID=Europe/Madrid:20240519T000000
 DTEND;TZID=Europe/Madrid:20240519T235959
@@ -121,12 +112,30 @@ LOCATION:Karlsruhe\, Germany
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:KubeDay Colombia
+DTSTART;TZID=Europe/Madrid:20240528T000000
+DTEND;TZID=Europe/Madrid:20240528T235959
+DTSTAMP:20240528T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubeday-colombia/
+LOCATION:Medellín\, Colombi
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AI_dev: Open Source GenAI & ML Summit North America
 DTSTART;TZID=Europe/Madrid:20240702T000000
 DTEND;TZID=Europe/Madrid:20240702T235959
 DTSTAMP:20240702T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/ai-dev-north-america/
 LOCATION:Seattle\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KubeDay Australia
+DTSTART;TZID=Europe/Madrid:20240627T000000
+DTEND;TZID=Europe/Madrid:20240627T235959
+DTSTAMP:20240627T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubeday-australia/
+LOCATION:Melbourne\, Australi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
