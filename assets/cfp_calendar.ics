@@ -11,39 +11,12 @@ LOCATION:Bangkok\, Thail
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Automotive Grade Linux All Member Meeting Summer
-DTSTART;TZID=Europe/Madrid:20240519T000000
-DTEND;TZID=Europe/Madrid:20240519T235959
-DTSTAMP:20240519T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/agl-amm-summer/
-LOCATION:Berlin\, Germany
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:gRPConf
-DTSTART;TZID=Europe/Madrid:20240519T000000
-DTEND;TZID=Europe/Madrid:20240519T235959
-DTSTAMP:20240519T001500Z
+DTSTART;TZID=Europe/Madrid:20240529T000000
+DTEND;TZID=Europe/Madrid:20240529T235959
+DTSTAMP:20240529T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/grpconf/
 LOCATION:Sunnyvale\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KubeDay Japan
-DTSTART;TZID=Europe/Madrid:20240519T000000
-DTEND;TZID=Europe/Madrid:20240519T235959
-DTSTAMP:20240519T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubeday-japan/
-LOCATION:Tokyo\, Jap
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LF Energy Summit
-DTSTART;TZID=Europe/Madrid:20240519T000000
-DTEND;TZID=Europe/Madrid:20240519T235959
-DTSTAMP:20240519T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/lfenergysummit/
-LOCATION:Brussels\, Belgium
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
@@ -63,16 +36,6 @@ DTSTAMP:20240624T001500Z
 DESCRIPTION:https://community.cncf.io/events/details/cncf-virtual-project-
  events-2024-hosted-by-cncf-presents-litmuschaoscon-virtual/
 LOCATION:Virtual
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Linux Security Summit Europe
-DTSTART;TZID=Europe/Madrid:20240519T000000
-DTEND;TZID=Europe/Madrid:20240519T235959
-DTSTAMP:20240519T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/linux-security-summit-europ
- e/
-LOCATION:Vienna\, Austri
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
