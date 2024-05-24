@@ -20,15 +20,6 @@ LOCATION:Sunnyvale\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GraphQLConf
-DTSTART;TZID=Europe/Madrid:20240522T000000
-DTEND;TZID=Europe/Madrid:20240522T235959
-DTSTAMP:20240522T001500Z
-DESCRIPTION:https://graphql.org/conf/2024/
-LOCATION:San Francisco\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LitmusChaosCon
 DTSTART;TZID=Europe/Madrid:20240624T000000
 DTEND;TZID=Europe/Madrid:20240624T235959
