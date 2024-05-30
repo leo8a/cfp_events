@@ -67,9 +67,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DPDK Summit
-DTSTART;TZID=Europe/Madrid:20240529T000000
-DTEND;TZID=Europe/Madrid:20240529T235959
-DTSTAMP:20240529T001500Z
+DTSTART;TZID=Europe/Madrid:20240721T000000
+DTEND;TZID=Europe/Madrid:20240721T235959
+DTSTAMP:20240721T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/dpdk-summit/
 LOCATION:Montreal\, C
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
@@ -91,15 +91,6 @@ DTEND;TZID=Europe/Madrid:20240714T235959
 DTSTAMP:20240714T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/cloud-foundry-day-europe/
 LOCATION:Karlsruhe\, Germany
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KubeDay Colombia
-DTSTART;TZID=Europe/Madrid:20240528T000000
-DTEND;TZID=Europe/Madrid:20240528T235959
-DTSTAMP:20240528T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubeday-colombia/
-LOCATION:Medellín\, Colombi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
