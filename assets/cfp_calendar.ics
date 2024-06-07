@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
-SUMMARY:DPDK Summit APAC
-DTSTART;TZID=Europe/Madrid:20240605T000000
-DTEND;TZID=Europe/Madrid:20240605T235959
-DTSTAMP:20240605T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/dpdk-summit-apac/
-LOCATION:Bangkok\, Thail
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LitmusChaosCon
 DTSTART;TZID=Europe/Madrid:20240624T000000
 DTEND;TZID=Europe/Madrid:20240624T235959
@@ -73,6 +64,15 @@ DTEND;TZID=Europe/Madrid:20240714T235959
 DTSTAMP:20240714T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/cloud-foundry-day-europe/
 LOCATION:Karlsruhe\, Germany
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KubeDay Colombia
+DTSTART;TZID=Europe/Madrid:20240628T000000
+DTEND;TZID=Europe/Madrid:20240628T235959
+DTSTAMP:20240628T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubeday-colombia/
+LOCATION:Medellín\, Colombi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
