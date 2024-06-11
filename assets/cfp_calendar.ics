@@ -248,16 +248,6 @@ LOCATION:Salt Lake City\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KubeCon + CloudNativeCon North America
-DTSTART;TZID=Europe/Madrid:20240609T000000
-DTEND;TZID=Europe/Madrid:20240609T235959
-DTSTAMP:20240609T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
- h-america/
-LOCATION:Salt Lake City\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kubernetes on Edge Day North America
 DTSTART;TZID=Europe/Madrid:20240714T000000
 DTEND;TZID=Europe/Madrid:20240714T235959
