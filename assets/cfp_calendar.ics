@@ -12,30 +12,12 @@ LOCATION:Virtual
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Linux Plumbers Conference
-DTSTART;TZID=Europe/Madrid:20240616T000000
-DTEND;TZID=Europe/Madrid:20240616T235959
-DTSTAMP:20240616T001500Z
-DESCRIPTION:https://lpc.events/
-LOCATION:Vienna\, Austri
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PyTorch Conference
 DTSTART;TZID=Europe/Madrid:20240708T000000
 DTEND;TZID=Europe/Madrid:20240708T235959
 DTSTAMP:20240708T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/pytorch-conference/
 LOCATION:San Francisco\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SOSS Community Day Europe
-DTSTART;TZID=Europe/Madrid:20240616T000000
-DTEND;TZID=Europe/Madrid:20240616T235959
-DTSTAMP:20240616T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/soss-community-day-europe/
-LOCATION:Vienna\, Austri
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
