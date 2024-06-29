@@ -57,15 +57,6 @@ LOCATION:Mountain View\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KubeDay Australia
-DTSTART;TZID=Europe/Madrid:20240627T000000
-DTEND;TZID=Europe/Madrid:20240627T235959
-DTSTAMP:20240627T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubeday-australia/
-LOCATION:Melbourne\, Australi
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RISC-V Summit
 DTSTART;TZID=Europe/Madrid:20240712T000000
 DTEND;TZID=Europe/Madrid:20240712T235959
