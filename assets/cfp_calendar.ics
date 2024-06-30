@@ -39,15 +39,6 @@ LOCATION:Karlsruhe\, Germany
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KubeDay Colombia
-DTSTART;TZID=Europe/Madrid:20240628T000000
-DTEND;TZID=Europe/Madrid:20240628T235959
-DTSTAMP:20240628T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubeday-colombia/
-LOCATION:Medellín\, Colombi
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BazelCon
 DTSTART;TZID=Europe/Madrid:20240630T000000
 DTEND;TZID=Europe/Madrid:20240630T235959
