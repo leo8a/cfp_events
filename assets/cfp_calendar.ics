@@ -39,15 +39,6 @@ LOCATION:Karlsruhe\, Germany
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BazelCon
-DTSTART;TZID=Europe/Madrid:20240630T000000
-DTEND;TZID=Europe/Madrid:20240630T235959
-DTSTAMP:20240630T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/bazelcon/
-LOCATION:Mountain View\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RISC-V Summit
 DTSTART;TZID=Europe/Madrid:20240712T000000
 DTEND;TZID=Europe/Madrid:20240712T235959
@@ -276,6 +267,16 @@ DTEND;TZID=Europe/Madrid:20240811T235959
 DTSTAMP:20240811T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/cephalocon/
 LOCATION:Geneva\, Switzerl
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KubeCon + CloudNativeCon India
+DTSTART;TZID=Europe/Madrid:20240825T000000
+DTEND;TZID=Europe/Madrid:20240825T235959
+DTSTAMP:20240825T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-indi
+ a/
+LOCATION:Delhi\, Indi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
