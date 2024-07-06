@@ -103,9 +103,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WasmCon
-DTSTART;TZID=Europe/Madrid:20240708T000000
-DTEND;TZID=Europe/Madrid:20240708T235959
-DTSTAMP:20240708T001500Z
+DTSTART;TZID=Europe/Madrid:20240715T000000
+DTEND;TZID=Europe/Madrid:20240715T235959
+DTSTAMP:20240715T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/wasmcon/
 LOCATION:Salt Lake City\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
