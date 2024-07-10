@@ -11,15 +11,6 @@ LOCATION:Berlin\, Germany
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PyTorch Conference
-DTSTART;TZID=Europe/Madrid:20240708T000000
-DTEND;TZID=Europe/Madrid:20240708T235959
-DTSTAMP:20240708T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/pytorch-conference/
-LOCATION:San Francisco\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DPDK Summit
 DTSTART;TZID=Europe/Madrid:20240721T000000
 DTEND;TZID=Europe/Madrid:20240721T235959
@@ -63,15 +54,6 @@ DTEND;TZID=Europe/Madrid:20240712T235959
 DTSTAMP:20240712T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/soss-fusion/
 LOCATION:Atlanta\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AI_dev: Open Source GenAI & ML Summit Japan
-DTSTART;TZID=Europe/Madrid:20240708T000000
-DTEND;TZID=Europe/Madrid:20240708T235959
-DTSTAMP:20240708T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/ai-dev-japan/
-LOCATION:Tokyo\, Jap
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
@@ -271,6 +253,24 @@ LOCATION:Delhi\, Indi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Red Hat Summit
+DTSTART;TZID=Europe/Madrid:20230111T000000
+DTEND;TZID=Europe/Madrid:20230111T235959
+DTSTAMP:20230111T000000Z
+DESCRIPTION:https://www.redhat.com/en/summit
+LOCATION:Boston\, United States
+ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red Hat Networking Summit 2023
+DTSTART;TZID=Europe/Madrid:20230203T000000
+DTEND;TZID=Europe/Madrid:20230203T235959
+DTSTAMP:20230203T000000Z
+DESCRIPTION:https://forms.gle/XyEiVm65cqfQ6cQh8
+LOCATION:Virtual
+ORGANIZER;NAME="Red Hat":MAILTO:rh-networking-summit@redhat.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Codemotion Conference Madrid 2023
 DTSTART;TZID=Europe/Madrid:20230222T000000
 DTEND;TZID=Europe/Madrid:20230222T235959
@@ -296,23 +296,5 @@ DTSTAMP:20230202T000000Z
 DESCRIPTION:https://kubevirt.io/summit/
 LOCATION:Virtual
 ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Red Hat Summit
-DTSTART;TZID=Europe/Madrid:20230111T000000
-DTEND;TZID=Europe/Madrid:20230111T235959
-DTSTAMP:20230111T000000Z
-DESCRIPTION:https://www.redhat.com/en/summit
-LOCATION:Boston\, United States
-ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Red Hat Networking Summit 2023
-DTSTART;TZID=Europe/Madrid:20230203T000000
-DTEND;TZID=Europe/Madrid:20230203T235959
-DTSTAMP:20230203T000000Z
-DESCRIPTION:https://forms.gle/XyEiVm65cqfQ6cQh8
-LOCATION:Virtual
-ORGANIZER;NAME="Red Hat":MAILTO:rh-networking-summit@redhat.com
 END:VEVENT
 END:VCALENDAR
