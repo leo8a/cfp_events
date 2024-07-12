@@ -39,6 +39,16 @@ LOCATION:Karlsruhe\, Germany
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dapr Day
+DTSTART;TZID=Europe/Madrid:20240805T000000
+DTEND;TZID=Europe/Madrid:20240805T235959
+DTSTAMP:20240805T001500Z
+DESCRIPTION:https://community.cncf.io/events/details/cncf-virtual-project-
+ events-2024-hosted-by-cncf-presents-dapr-day-virtual-october-2024/
+LOCATION:Virtual
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RISC-V Summit
 DTSTART;TZID=Europe/Madrid:20240712T000000
 DTEND;TZID=Europe/Madrid:20240712T235959
