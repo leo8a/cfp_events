@@ -58,15 +58,6 @@ LOCATION:Santa Clara\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SOSS Fusion
-DTSTART;TZID=Europe/Madrid:20240712T000000
-DTEND;TZID=Europe/Madrid:20240712T235959
-DTSTAMP:20240712T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/soss-fusion/
-LOCATION:Atlanta\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Open Compliance Summit
 DTSTART;TZID=Europe/Madrid:20240807T000000
 DTEND;TZID=Europe/Madrid:20240807T235959
