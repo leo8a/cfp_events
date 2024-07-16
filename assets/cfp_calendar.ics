@@ -2,40 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
-SUMMARY:PromCon Europe
-DTSTART;TZID=Europe/Madrid:20240714T000000
-DTEND;TZID=Europe/Madrid:20240714T235959
-DTSTAMP:20240714T001500Z
-DESCRIPTION:https://promcon.io/2024-berlin/
-LOCATION:Berlin\, Germany
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DPDK Summit
 DTSTART;TZID=Europe/Madrid:20240721T000000
 DTEND;TZID=Europe/Madrid:20240721T235959
 DTSTAMP:20240721T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/dpdk-summit/
 LOCATION:Montreal\, C
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Source in Finance Forum New York
-DTSTART;TZID=Europe/Madrid:20240714T000000
-DTEND;TZID=Europe/Madrid:20240714T235959
-DTSTAMP:20240714T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/open-source-finance-forum-n
- ew-york/
-LOCATION:New York\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cloud Foundry Day Europe
-DTSTART;TZID=Europe/Madrid:20240714T000000
-DTEND;TZID=Europe/Madrid:20240714T235959
-DTSTAMP:20240714T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/cloud-foundry-day-europe/
-LOCATION:Karlsruhe\, Germany
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
@@ -72,156 +44,6 @@ DTSTART;TZID=Europe/Madrid:20240715T000000
 DTEND;TZID=Europe/Madrid:20240715T235959
 DTSTAMP:20240715T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/wasmcon/
-LOCATION:Salt Lake City\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AppDeveloperCon North America
-DTSTART;TZID=Europe/Madrid:20240714T000000
-DTEND;TZID=Europe/Madrid:20240714T235959
-DTSTAMP:20240714T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
- h-america/co-located-events/appdevelopercon/
-LOCATION:Salt Lake City\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ArgoCon North America
-DTSTART;TZID=Europe/Madrid:20240714T000000
-DTEND;TZID=Europe/Madrid:20240714T235959
-DTSTAMP:20240714T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
- h-america/co-located-events/argocon/
-LOCATION:Salt Lake City\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BackstageCon North America
-DTSTART;TZID=Europe/Madrid:20240714T000000
-DTEND;TZID=Europe/Madrid:20240714T235959
-DTSTAMP:20240714T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
- h-america/co-located-events/backstagecon/
-LOCATION:Salt Lake City\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cilium + eBPF Day North America
-DTSTART;TZID=Europe/Madrid:20240714T000000
-DTEND;TZID=Europe/Madrid:20240714T235959
-DTSTAMP:20240714T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
- h-america/co-located-events/cilium-ebpf-day/
-LOCATION:Salt Lake City\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cloud Native + Kubernetes AI Day North America
-DTSTART;TZID=Europe/Madrid:20240714T000000
-DTEND;TZID=Europe/Madrid:20240714T235959
-DTSTAMP:20240714T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
- h-america/co-located-events/cloud-native-kubernetes-ai-day/
-LOCATION:Salt Lake City\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cloud Native StartupFest Day North America
-DTSTART;TZID=Europe/Madrid:20240714T000000
-DTEND;TZID=Europe/Madrid:20240714T235959
-DTSTAMP:20240714T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
- h-america/co-located-events/cloud-native-startupfest/
-LOCATION:Salt Lake City\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cloud Native University North America
-DTSTART;TZID=Europe/Madrid:20240714T000000
-DTEND;TZID=Europe/Madrid:20240714T235959
-DTSTAMP:20240714T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
- h-america/co-located-events/cloud-native-university/
-LOCATION:Salt Lake City\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Data on Kubernetes Day North America
-DTSTART;TZID=Europe/Madrid:20240714T000000
-DTEND;TZID=Europe/Madrid:20240714T235959
-DTSTAMP:20240714T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
- h-america/co-located-events/data-on-kubernetes-day/
-LOCATION:Salt Lake City\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EnvoyCon North America
-DTSTART;TZID=Europe/Madrid:20240714T000000
-DTEND;TZID=Europe/Madrid:20240714T235959
-DTSTAMP:20240714T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
- h-america/co-located-events/envoycon/
-LOCATION:Salt Lake City\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Istio Day North America
-DTSTART;TZID=Europe/Madrid:20240714T000000
-DTEND;TZID=Europe/Madrid:20240714T235959
-DTSTAMP:20240714T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
- h-america/co-located-events/istio-day/
-LOCATION:Salt Lake City\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kubernetes on Edge Day North America
-DTSTART;TZID=Europe/Madrid:20240714T000000
-DTEND;TZID=Europe/Madrid:20240714T235959
-DTSTAMP:20240714T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
- h-america/co-located-events/kubernetes-on-edge-day/
-LOCATION:Salt Lake City\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Observability Day North America
-DTSTART;TZID=Europe/Madrid:20240714T000000
-DTEND;TZID=Europe/Madrid:20240714T235959
-DTSTAMP:20240714T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
- h-america/co-located-events/observability-day/
-LOCATION:Salt Lake City\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OpenFeature Summit North America
-DTSTART;TZID=Europe/Madrid:20240714T000000
-DTEND;TZID=Europe/Madrid:20240714T235959
-DTSTAMP:20240714T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
- h-america/co-located-events/openfeature-summit/
-LOCATION:Salt Lake City\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OpenTofu Day North America
-DTSTART;TZID=Europe/Madrid:20240714T000000
-DTEND;TZID=Europe/Madrid:20240714T235959
-DTSTAMP:20240714T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
- h-america/co-located-events/opentofu-day/
-LOCATION:Salt Lake City\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Platform Engineering Day North America
-DTSTART;TZID=Europe/Madrid:20240714T000000
-DTEND;TZID=Europe/Madrid:20240714T235959
-DTSTAMP:20240714T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
- h-america/co-located-events/platform-engineering-day/
 LOCATION:Salt Lake City\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
