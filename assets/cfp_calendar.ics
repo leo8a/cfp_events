@@ -21,30 +21,12 @@ LOCATION:Virtual
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RISC-V Summit
-DTSTART;TZID=Europe/Madrid:20240715T000000
-DTEND;TZID=Europe/Madrid:20240715T235959
-DTSTAMP:20240715T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/riscv-summit/
-LOCATION:Santa Clara\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Open Compliance Summit
 DTSTART;TZID=Europe/Madrid:20240807T000000
 DTEND;TZID=Europe/Madrid:20240807T235959
 DTSTAMP:20240807T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/open-compliance-summit/
 LOCATION:Tokyo\, Jap
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WasmCon
-DTSTART;TZID=Europe/Madrid:20240715T000000
-DTEND;TZID=Europe/Madrid:20240715T235959
-DTSTAMP:20240715T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/wasmcon/
-LOCATION:Salt Lake City\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
