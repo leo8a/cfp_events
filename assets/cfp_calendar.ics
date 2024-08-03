@@ -85,15 +85,6 @@ LOCATION:Virtual
 ORGANIZER;NAME="Red Hat":MAILTO:rh-networking-summit@redhat.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Codemotion Conference Madrid 2023
-DTSTART;TZID=Europe/Madrid:20230222T000000
-DTEND;TZID=Europe/Madrid:20230222T235959
-DTSTAMP:20230222T000000Z
-DESCRIPTION:https://extra.codemotion.com/madrid23-cfp/
-LOCATION:Madrid\, Spain
-ORGANIZER;NAME="Red Hat":MAILTO:speakers@codemotion.it
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KubeVirt Summit 2023
 DTSTART;TZID=Europe/Madrid:20230202T000000
 DTEND;TZID=Europe/Madrid:20230202T235959
@@ -101,5 +92,14 @@ DTSTAMP:20230202T000000Z
 DESCRIPTION:https://kubevirt.io/summit/
 LOCATION:Virtual
 ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codemotion Conference Madrid 2023
+DTSTART;TZID=Europe/Madrid:20230222T000000
+DTEND;TZID=Europe/Madrid:20230222T235959
+DTSTAMP:20230222T000000Z
+DESCRIPTION:https://extra.codemotion.com/madrid23-cfp/
+LOCATION:Madrid\, Spain
+ORGANIZER;NAME="Red Hat":MAILTO:speakers@codemotion.it
 END:VEVENT
 END:VCALENDAR
