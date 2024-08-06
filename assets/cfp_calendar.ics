@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
 SUMMARY:Dapr Day
-DTSTART;TZID=Europe/Madrid:20240805T000000
-DTEND;TZID=Europe/Madrid:20240805T235959
-DTSTAMP:20240805T001500Z
+DTSTART;TZID=Europe/Madrid:20240812T000000
+DTEND;TZID=Europe/Madrid:20240812T235959
+DTSTAMP:20240812T001500Z
 DESCRIPTION:https://community.cncf.io/events/details/cncf-virtual-project-
  events-2024-hosted-by-cncf-presents-dapr-day-virtual-october-2024/
 LOCATION:Virtual
