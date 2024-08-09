@@ -2,6 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
+SUMMARY:P4 Workshop
+DTSTART;TZID=Europe/Madrid:20240809T000000
+DTEND;TZID=Europe/Madrid:20240809T235959
+DTSTAMP:20240809T001500Z
+DESCRIPTION:https://p4.org/2024-p4-workshop/
+LOCATION:Sunnyvale\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dapr Day
 DTSTART;TZID=Europe/Madrid:20240812T000000
 DTEND;TZID=Europe/Madrid:20240812T235959
@@ -12,21 +21,22 @@ LOCATION:Virtual
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Open Compliance Summit
-DTSTART;TZID=Europe/Madrid:20240807T000000
-DTEND;TZID=Europe/Madrid:20240807T235959
-DTSTAMP:20240807T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/open-compliance-summit/
-LOCATION:Tokyo\, Jap
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SOSS Community Day Japan
 DTSTART;TZID=Europe/Madrid:20240825T000000
 DTEND;TZID=Europe/Madrid:20240825T235959
 DTSTAMP:20240825T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/soss-community-day-japan/
 LOCATION:Tokyo\, Jap
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SigstoreCon Supply Chain Day
+DTSTART;TZID=Europe/Madrid:20240908T000000
+DTEND;TZID=Europe/Madrid:20240908T235959
+DTSTAMP:20240908T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/sigstorecon-supply-chain-da
+ y/
+LOCATION:Salt Lake City\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
