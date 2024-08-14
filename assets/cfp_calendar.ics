@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
-SUMMARY:Dapr Day
-DTSTART;TZID=Europe/Madrid:20240812T000000
-DTEND;TZID=Europe/Madrid:20240812T235959
-DTSTAMP:20240812T001500Z
-DESCRIPTION:https://community.cncf.io/events/details/cncf-virtual-project-
- events-2024-hosted-by-cncf-presents-dapr-day-virtual-october-2024/
-LOCATION:Virtual
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SOSS Community Day Japan
 DTSTART;TZID=Europe/Madrid:20240825T000000
 DTEND;TZID=Europe/Madrid:20240825T235959
@@ -22,9 +12,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SigstoreCon Supply Chain Day
-DTSTART;TZID=Europe/Madrid:20240908T000000
-DTEND;TZID=Europe/Madrid:20240908T235959
-DTSTAMP:20240908T001500Z
+DTSTART;TZID=Europe/Madrid:20240915T000000
+DTEND;TZID=Europe/Madrid:20240915T235959
+DTSTAMP:20240915T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/sigstorecon-supply-chain-da
  y/
 LOCATION:Salt Lake City\, United States
