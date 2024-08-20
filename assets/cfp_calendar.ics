@@ -39,15 +39,6 @@ LOCATION:Prague\, Czech Republic
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cephalocon
-DTSTART;TZID=Europe/Madrid:20240818T000000
-DTEND;TZID=Europe/Madrid:20240818T235959
-DTSTAMP:20240818T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/cephalocon/
-LOCATION:Geneva\, Switzerl
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KubeCon + CloudNativeCon India
 DTSTART;TZID=Europe/Madrid:20240825T000000
 DTEND;TZID=Europe/Madrid:20240825T235959
