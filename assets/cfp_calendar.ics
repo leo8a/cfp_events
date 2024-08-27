@@ -39,16 +39,6 @@ LOCATION:Prague\, Czech Republic
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KubeCon + CloudNativeCon India
-DTSTART;TZID=Europe/Madrid:20240825T000000
-DTEND;TZID=Europe/Madrid:20240825T235959
-DTSTAMP:20240825T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-indi
- a/
-LOCATION:Delhi\, Indi
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KubeVirt Summit 2023
 DTSTART;TZID=Europe/Madrid:20230202T000000
 DTEND;TZID=Europe/Madrid:20230202T235959
