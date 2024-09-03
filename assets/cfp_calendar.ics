@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
-SUMMARY:SOSS Community Day Japan
-DTSTART;TZID=Europe/Madrid:20240901T000000
-DTEND;TZID=Europe/Madrid:20240901T235959
-DTSTAMP:20240901T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/soss-community-day-japan/
-LOCATION:Tokyo\, Jap
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SigstoreCon Supply Chain Day
 DTSTART;TZID=Europe/Madrid:20240913T000000
 DTEND;TZID=Europe/Madrid:20240913T235959
