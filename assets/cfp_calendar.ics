@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
 SUMMARY:SigstoreCon Supply Chain Day
-DTSTART;TZID=Europe/Madrid:20240913T000000
-DTEND;TZID=Europe/Madrid:20240913T235959
-DTSTAMP:20240913T001500Z
+DTSTART;TZID=Europe/Madrid:20240918T000000
+DTEND;TZID=Europe/Madrid:20240918T235959
+DTSTAMP:20240918T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/sigstorecon-supply-chain-da
  y/
 LOCATION:Salt Lake City\, United States
