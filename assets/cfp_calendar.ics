@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
-SUMMARY:Open vSwitch and OVN Fall Conference
-DTSTART;TZID=Europe/Madrid:20240927T000000
-DTEND;TZID=Europe/Madrid:20240927T235959
-DTSTAMP:20240927T001500Z
-DESCRIPTION:https://www.openvswitch.org/support/ovscon2024/
-LOCATION:Prague\, Czech Republic
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KubeCon + CloudNativeCon Europe
 DTSTART;TZID=Europe/Madrid:20241124T000000
 DTEND;TZID=Europe/Madrid:20241124T235959
