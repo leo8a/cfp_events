@@ -51,6 +51,16 @@ LOCATION:London\, Engl
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cloud Native Telco Day Europe
+DTSTART;TZID=Europe/Madrid:20241204T000000
+DTEND;TZID=Europe/Madrid:20241204T235959
+DTSTAMP:20241204T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/co-located-events/cloud-native-telco-day/
+LOCATION:London\, Engl
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cloud Native University Europe
 DTSTART;TZID=Europe/Madrid:20241204T000000
 DTEND;TZID=Europe/Madrid:20241204T235959
