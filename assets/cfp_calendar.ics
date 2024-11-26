@@ -101,16 +101,6 @@ LOCATION:London\, Engl
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KubeCon + CloudNativeCon Europe
-DTSTART;TZID=Europe/Madrid:20241124T000000
-DTEND;TZID=Europe/Madrid:20241124T235959
-DTSTAMP:20241124T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/
-LOCATION:London\, Engl
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kubeflow Summit Europe
 DTSTART;TZID=Europe/Madrid:20241204T000000
 DTEND;TZID=Europe/Madrid:20241204T235959
