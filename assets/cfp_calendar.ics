@@ -29,6 +29,26 @@ LOCATION:Amsterdam\, Netherlands
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:KubeCon + CloudNativeCon China
+DTSTART;TZID=Europe/Madrid:20250202T000000
+DTEND;TZID=Europe/Madrid:20250202T235959
+DTSTAMP:20250202T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-chin
+ a/
+LOCATION:Hong Kong
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KubeCon + CloudNativeCon Japan
+DTSTART;TZID=Europe/Madrid:20250202T000000
+DTEND;TZID=Europe/Madrid:20250202T235959
+DTSTAMP:20250202T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-japa
+ n/
+LOCATION:Tokyo\, Jap
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Source Summit North America
 DTSTART;TZID=Europe/Madrid:20250216T000000
 DTEND;TZID=Europe/Madrid:20250216T235959
@@ -36,6 +56,16 @@ DTSTAMP:20250216T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/open-source-summit-north-am
  erica/
 LOCATION:Denver\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KubeCon + CloudNativeCon India
+DTSTART;TZID=Europe/Madrid:20250323T000000
+DTEND;TZID=Europe/Madrid:20250323T235959
+DTSTAMP:20250323T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-indi
+ a/
+LOCATION:Hyderabad\, Indi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
