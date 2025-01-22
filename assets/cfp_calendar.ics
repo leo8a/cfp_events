@@ -12,6 +12,15 @@ LOCATION:Palo Alto\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OpenSearchCon India
+DTSTART;TZID=Europe/Madrid:20250223T000000
+DTEND;TZID=Europe/Madrid:20250223T235959
+DTSTAMP:20250223T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/opensearchcon-india/
+LOCATION:Bengaluru\, Indi
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:KubeCon + CloudNativeCon China
 DTSTART;TZID=Europe/Madrid:20250202T000000
 DTEND;TZID=Europe/Madrid:20250202T235959
