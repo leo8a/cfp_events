@@ -69,6 +69,16 @@ LOCATION:Denver\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Source in Finance Forum London
+DTSTART;TZID=Europe/Madrid:20250316T000000
+DTEND;TZID=Europe/Madrid:20250316T235959
+DTSTAMP:20250316T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/open-source-finance-forum-l
+ ondon/
+LOCATION:London\, Engl
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OpenSSF Community Day North America
 DTSTART;TZID=Europe/Madrid:20250323T000000
 DTEND;TZID=Europe/Madrid:20250323T235959
