@@ -50,6 +50,16 @@ LOCATION:London\, Engl
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Linux Security Summit North America
+DTSTART;TZID=Europe/Madrid:20250310T000000
+DTEND;TZID=Europe/Madrid:20250310T235959
+DTSTAMP:20250310T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/linux-security-summit-north
+ -america/
+LOCATION:Denver\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OpenSSF Community Day North America
 DTSTART;TZID=Europe/Madrid:20250323T000000
 DTEND;TZID=Europe/Madrid:20250323T235959
