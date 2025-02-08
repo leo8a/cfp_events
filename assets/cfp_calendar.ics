@@ -11,6 +11,15 @@ LOCATION:Chicago\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DPDK Summit
+DTSTART;TZID=Europe/Madrid:20250302T000000
+DTEND;TZID=Europe/Madrid:20250302T235959
+DTSTAMP:20250302T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/dpdk-summit/
+LOCATION:Prague\, Czech Republic
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cloud Foundry Day North America
 DTSTART;TZID=Europe/Madrid:20250224T000000
 DTEND;TZID=Europe/Madrid:20250224T235959
