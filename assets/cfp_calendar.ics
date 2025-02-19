@@ -97,6 +97,16 @@ LOCATION:Hyderabad\, Indi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Linux Security Summit Europe
+DTSTART;TZID=Europe/Madrid:20250506T000000
+DTEND;TZID=Europe/Madrid:20250506T235959
+DTSTAMP:20250506T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/linux-security-summit-europ
+ e/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GraphQLConf
 DTSTART;TZID=Europe/Madrid:20250504T000000
 DTEND;TZID=Europe/Madrid:20250504T235959
