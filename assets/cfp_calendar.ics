@@ -69,6 +69,16 @@ LOCATION:Denver\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:StrimziCon
+DTSTART;TZID=Europe/Madrid:20250316T000000
+DTEND;TZID=Europe/Madrid:20250316T235959
+DTSTAMP:20250316T001500Z
+DESCRIPTION:https://community.cncf.io/events/details/cncf-virtual-project-
+ events-hosted-by-cncf-presents-strimzicon-2025-virtual/
+LOCATION:Virtual
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Automotive Grade Linux All Member Meeting Summer
 DTSTART;TZID=Europe/Madrid:20250504T000000
 DTEND;TZID=Europe/Madrid:20250504T235959
@@ -97,11 +107,30 @@ LOCATION:Hyderabad\, Indi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Source Summit Europe
+DTSTART;TZID=Europe/Madrid:20250414T000000
+DTEND;TZID=Europe/Madrid:20250414T235959
+DTSTAMP:20250414T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/open-source-summit-europe/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Linux Security Summit Europe
 DTSTART;TZID=Europe/Madrid:20250506T000000
 DTEND;TZID=Europe/Madrid:20250506T235959
 DTSTAMP:20250506T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/linux-security-summit-europ
+ e/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OpenSSF Community Day Europe
+DTSTART;TZID=Europe/Madrid:20250526T000000
+DTEND;TZID=Europe/Madrid:20250526T235959
+DTSTAMP:20250526T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/openssf-community-day-europ
  e/
 LOCATION:Amsterdam\, Netherlands
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
