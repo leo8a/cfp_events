@@ -30,15 +30,6 @@ LOCATION:Palo Alto\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OpenSearchCon India
-DTSTART;TZID=Europe/Madrid:20250223T000000
-DTEND;TZID=Europe/Madrid:20250223T235959
-DTSTAMP:20250223T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/opensearchcon-india/
-LOCATION:Bengaluru\, Indi
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:StrimziCon
 DTSTART;TZID=Europe/Madrid:20250316T000000
 DTEND;TZID=Europe/Madrid:20250316T235959
@@ -155,9 +146,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OpenSearchCon North America
-DTSTART;TZID=Europe/Madrid:20250224T000000
-DTEND;TZID=Europe/Madrid:20250224T235959
-DTSTAMP:20250224T001500Z
+DTSTART;TZID=Europe/Madrid:20250511T000000
+DTEND;TZID=Europe/Madrid:20250511T235959
+DTSTAMP:20250511T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/opensearchcon-north-america
  /
 LOCATION:San Jose\, United States
