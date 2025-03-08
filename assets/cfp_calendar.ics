@@ -117,6 +117,15 @@ LOCATION:Amsterdam\, Netherlands
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Container Plumbing Days
+DTSTART;TZID=Europe/Madrid:20250413T000000
+DTEND;TZID=Europe/Madrid:20250413T235959
+DTSTAMP:20250413T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/container-plumbing-days/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Linux Security Summit Europe
 DTSTART;TZID=Europe/Madrid:20250506T000000
 DTEND;TZID=Europe/Madrid:20250506T235959
