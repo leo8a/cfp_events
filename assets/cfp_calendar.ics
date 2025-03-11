@@ -12,15 +12,6 @@ LOCATION:Virtual
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DPDK Summit
-DTSTART;TZID=Europe/Madrid:20250309T000000
-DTEND;TZID=Europe/Madrid:20250309T235959
-DTSTAMP:20250309T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/dpdk-summit/
-LOCATION:Prague\, Czech Republic
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:StrimziCon
 DTSTART;TZID=Europe/Madrid:20250316T000000
 DTEND;TZID=Europe/Madrid:20250316T235959
