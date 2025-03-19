@@ -12,13 +12,12 @@ LOCATION:Virtual
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Open Source in Finance Forum London
-DTSTART;TZID=Europe/Madrid:20250317T000000
-DTEND;TZID=Europe/Madrid:20250317T235959
-DTSTAMP:20250317T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/open-source-finance-forum-l
- ondon/
-LOCATION:London\, Engl
+SUMMARY:PyTorch Day China
+DTSTART;TZID=Europe/Madrid:20250413T000000
+DTEND;TZID=Europe/Madrid:20250413T235959
+DTSTAMP:20250413T001500Z
+DESCRIPTION:https://www.lfasiallc.com/pytorch-day-china/
+LOCATION:Beijing\, Chi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
