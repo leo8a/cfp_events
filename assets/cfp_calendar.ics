@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
-SUMMARY:GitOpsCon Europe
-DTSTART;TZID=Europe/Madrid:20250323T000000
-DTEND;TZID=Europe/Madrid:20250323T235959
-DTSTAMP:20250323T001500Z
-DESCRIPTION:https://community.cncf.io/events/details/cncf-virtual-project-
- events-hosted-by-cncf-presents-gitopscon-europe-2025-virtual/
-LOCATION:Virtual
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PyTorch Day China
 DTSTART;TZID=Europe/Madrid:20250413T000000
 DTEND;TZID=Europe/Madrid:20250413T235959
@@ -21,20 +11,10 @@ LOCATION:Beijing\, Chi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OpenSSF Community Day North America
-DTSTART;TZID=Europe/Madrid:20250323T000000
-DTEND;TZID=Europe/Madrid:20250323T235959
-DTSTAMP:20250323T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/openssf-community-day-north
- -america/
-LOCATION:Denver\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:OTel Community Day
-DTSTART;TZID=Europe/Madrid:20250324T000000
-DTEND;TZID=Europe/Madrid:20250324T235959
-DTSTAMP:20250324T001500Z
+DTSTART;TZID=Europe/Madrid:20250328T000000
+DTEND;TZID=Europe/Madrid:20250328T235959
+DTSTAMP:20250328T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/open-telemetry-community-da
  y/
 LOCATION:Denver\, United States
@@ -65,16 +45,6 @@ DTSTART;TZID=Europe/Madrid:20250407T000000
 DTEND;TZID=Europe/Madrid:20250407T235959
 DTSTAMP:20250407T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/open-source-summit-india/
-LOCATION:Hyderabad\, Indi
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KubeCon + CloudNativeCon India
-DTSTART;TZID=Europe/Madrid:20250323T000000
-DTEND;TZID=Europe/Madrid:20250323T235959
-DTSTAMP:20250323T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-indi
- a/
 LOCATION:Hyderabad\, Indi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
