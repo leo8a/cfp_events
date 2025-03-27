@@ -133,6 +133,15 @@ LOCATION:San Francisco\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:JupyterCon
+DTSTART;TZID=Europe/Madrid:20250714T000000
+DTEND;TZID=Europe/Madrid:20250714T235959
+DTSTAMP:20250714T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/jupytercon/
+LOCATION:San Diego\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Source Summit Korea
 DTSTART;TZID=Europe/Madrid:20250630T000000
 DTEND;TZID=Europe/Madrid:20250630T235959
