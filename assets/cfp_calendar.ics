@@ -160,6 +160,16 @@ LOCATION:Seoul\, South Kore
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:KubeCon + CloudNativeCon North America
+DTSTART;TZID=Europe/Madrid:20250527T000000
+DTEND;TZID=Europe/Madrid:20250527T235959
+DTSTAMP:20250527T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/
+LOCATION:Atlanta\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AI_dev: Open Source GenAI & ML Summit Japan
 DTSTART;TZID=Europe/Madrid:20250804T000000
 DTEND;TZID=Europe/Madrid:20250804T235959
