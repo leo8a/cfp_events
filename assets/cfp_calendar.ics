@@ -31,9 +31,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OpenSSF Community Day India
-DTSTART;TZID=Europe/Madrid:20250428T000000
-DTEND;TZID=Europe/Madrid:20250428T235959
-DTSTAMP:20250428T001500Z
+DTSTART;TZID=Europe/Madrid:20250504T000000
+DTEND;TZID=Europe/Madrid:20250504T235959
+DTSTAMP:20250504T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/openssf-community-day-india
  /
 LOCATION:Hyderabad\, Indi
