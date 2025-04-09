@@ -11,6 +11,15 @@ LOCATION:Beijing\, Chi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:KeycloakCon Japan
+DTSTART;TZID=Europe/Madrid:20250418T000000
+DTEND;TZID=Europe/Madrid:20250418T235959
+DTSTAMP:20250418T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/keycloakcon-japan/
+LOCATION:Tokyo\, Jap
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OpenSSF Community Day Japan
 DTSTART;TZID=Europe/Madrid:20250427T000000
 DTEND;TZID=Europe/Madrid:20250427T235959
@@ -40,12 +49,12 @@ LOCATION:Hyderabad\, Indi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Open Source Summit India
-DTSTART;TZID=Europe/Madrid:20250407T000000
-DTEND;TZID=Europe/Madrid:20250407T235959
-DTSTAMP:20250407T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/open-source-summit-india/
-LOCATION:Hyderabad\, Indi
+SUMMARY:Open Source Days
+DTSTART;TZID=Europe/Madrid:20250518T000000
+DTEND;TZID=Europe/Madrid:20250518T235959
+DTSTAMP:20250518T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/open-source-days/
+LOCATION:Vancouver\, C
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
@@ -121,6 +130,15 @@ DTSTAMP:20250511T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/opensearchcon-north-america
  /
 LOCATION:San Jose\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LF Energy Summit Europe
+DTSTART;TZID=Europe/Madrid:20250526T000000
+DTEND;TZID=Europe/Madrid:20250526T235959
+DTSTAMP:20250526T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/lfenergysummit-europe/
+LOCATION:Aachen\, Germany
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
