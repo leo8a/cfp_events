@@ -49,15 +49,6 @@ LOCATION:Vancouver\, C
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Open Source Summit Europe
-DTSTART;TZID=Europe/Madrid:20250414T000000
-DTEND;TZID=Europe/Madrid:20250414T235959
-DTSTAMP:20250414T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/open-source-summit-europe/
-LOCATION:Amsterdam\, Netherlands
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:gRPConf North America
 DTSTART;TZID=Europe/Madrid:20250528T000000
 DTEND;TZID=Europe/Madrid:20250528T235959
