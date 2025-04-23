@@ -12,6 +12,16 @@ LOCATION:Tokyo\, Jap
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OpenObservabilityCon and OTel Community Day
+DTSTART;TZID=Europe/Madrid:20250511T000000
+DTEND;TZID=Europe/Madrid:20250511T235959
+DTSTAMP:20250511T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/openobservabilitycon-otel-c
+ ommunity-day/
+LOCATION:Denver\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Automotive Grade Linux All Member Meeting Summer
 DTSTART;TZID=Europe/Madrid:20250504T000000
 DTEND;TZID=Europe/Madrid:20250504T235959
