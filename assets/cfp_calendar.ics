@@ -12,25 +12,6 @@ LOCATION:Denver\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Automotive Grade Linux All Member Meeting Summer
-DTSTART;TZID=Europe/Madrid:20250504T000000
-DTEND;TZID=Europe/Madrid:20250504T235959
-DTSTAMP:20250504T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/agl-amm-summer/
-LOCATION:Berlin\, Germany
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OpenSSF Community Day India
-DTSTART;TZID=Europe/Madrid:20250504T000000
-DTEND;TZID=Europe/Madrid:20250504T235959
-DTSTAMP:20250504T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/openssf-community-day-india
- /
-LOCATION:Hyderabad\, Indi
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Open Source Days
 DTSTART;TZID=Europe/Madrid:20250518T000000
 DTEND;TZID=Europe/Madrid:20250518T235959
@@ -65,15 +46,6 @@ DTEND;TZID=Europe/Madrid:20250526T235959
 DTSTAMP:20250526T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/openssf-community-day-europ
  e/
-LOCATION:Amsterdam\, Netherlands
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GraphQLConf
-DTSTART;TZID=Europe/Madrid:20250504T000000
-DTEND;TZID=Europe/Madrid:20250504T235959
-DTSTAMP:20250504T001500Z
-DESCRIPTION:https://graphql.org/conf/2025/
 LOCATION:Amsterdam\, Netherlands
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
