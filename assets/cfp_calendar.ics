@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
-SUMMARY:Open Observability Summit and OTel Community Day
-DTSTART;TZID=Europe/Madrid:20250511T000000
-DTEND;TZID=Europe/Madrid:20250511T235959
-DTSTAMP:20250511T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/open-observability-summit-o
- tel-community-day/
-LOCATION:Denver\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Open Source Days
 DTSTART;TZID=Europe/Madrid:20250518T000000
 DTEND;TZID=Europe/Madrid:20250518T235959
@@ -37,16 +27,6 @@ DTSTAMP:20250526T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/openssf-community-day-europ
  e/
 LOCATION:Amsterdam\, Netherlands
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OpenSearchCon North America
-DTSTART;TZID=Europe/Madrid:20250511T000000
-DTEND;TZID=Europe/Madrid:20250511T235959
-DTSTAMP:20250511T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/opensearchcon-north-america
- /
-LOCATION:San Jose\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
