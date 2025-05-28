@@ -11,25 +11,6 @@ LOCATION:Sunnyvale\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OpenSSF Community Day Europe
-DTSTART;TZID=Europe/Madrid:20250526T000000
-DTEND;TZID=Europe/Madrid:20250526T235959
-DTSTAMP:20250526T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/openssf-community-day-europ
- e/
-LOCATION:Amsterdam\, Netherlands
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LF Energy Summit Europe
-DTSTART;TZID=Europe/Madrid:20250526T000000
-DTEND;TZID=Europe/Madrid:20250526T235959
-DTSTAMP:20250526T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/lfenergysummit-europe/
-LOCATION:Aachen\, Germany
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cloud Foundry Day Europe
 DTSTART;TZID=Europe/Madrid:20250629T000000
 DTEND;TZID=Europe/Madrid:20250629T235959
