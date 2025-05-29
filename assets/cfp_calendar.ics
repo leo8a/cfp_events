@@ -56,6 +56,15 @@ LOCATION:Seoul\, South Kore
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OpenSearchCon Korea
+DTSTART;TZID=Europe/Madrid:20250803T000000
+DTEND;TZID=Europe/Madrid:20250803T235959
+DTSTAMP:20250803T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/opensearchcon-korea/
+LOCATION:Seoul\, South Kore
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OpenSSF Community Day Korea
 DTSTART;TZID=Europe/Madrid:20250803T000000
 DTEND;TZID=Europe/Madrid:20250803T235959
@@ -63,16 +72,6 @@ DTSTAMP:20250803T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/openssf-community-day-korea
  /
 LOCATION:Seoul\, South Kore
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KubeCon + CloudNativeCon North America
-DTSTART;TZID=Europe/Madrid:20250527T000000
-DTEND;TZID=Europe/Madrid:20250527T235959
-DTSTAMP:20250527T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
- h-america/
-LOCATION:Atlanta\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
