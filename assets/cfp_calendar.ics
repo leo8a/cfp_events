@@ -11,6 +11,15 @@ LOCATION:Frankfurt\, Germany
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PromCon Europe
+DTSTART;TZID=Europe/Madrid:20250716T000000
+DTEND;TZID=Europe/Madrid:20250716T235959
+DTSTAMP:20250716T001500Z
+DESCRIPTION:https://promcon.io/
+LOCATION:Munich\, Germany
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PyTorch Conference
 DTSTART;TZID=Europe/Madrid:20250801T000000
 DTEND;TZID=Europe/Madrid:20250801T235959
