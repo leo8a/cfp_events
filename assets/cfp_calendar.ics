@@ -11,6 +11,16 @@ LOCATION:Frankfurt\, Germany
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Source in Finance Forum New York
+DTSTART;TZID=Europe/Madrid:20250727T000000
+DTEND;TZID=Europe/Madrid:20250727T235959
+DTSTAMP:20250727T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/open-source-finance-forum-n
+ ew-york/
+LOCATION:New York\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PromCon Europe
 DTSTART;TZID=Europe/Madrid:20250716T000000
 DTEND;TZID=Europe/Madrid:20250716T235959
@@ -72,6 +82,186 @@ DTSTAMP:20250803T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/openssf-community-day-korea
  /
 LOCATION:Seoul\, South Kore
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ArgoCon North America
+DTSTART;TZID=Europe/Madrid:20250630T000000
+DTEND;TZID=Europe/Madrid:20250630T235959
+DTSTAMP:20250630T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/argocon/
+LOCATION:Atlanta\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BackstageCon North America
+DTSTART;TZID=Europe/Madrid:20250630T000000
+DTEND;TZID=Europe/Madrid:20250630T235959
+DTSTAMP:20250630T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/backstagecon/
+LOCATION:Atlanta\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CiliumCon North America
+DTSTART;TZID=Europe/Madrid:20250630T000000
+DTEND;TZID=Europe/Madrid:20250630T235959
+DTSTAMP:20250630T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/ciliumcon/
+LOCATION:Atlanta\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Native + Kubernetes AI Day North America
+DTSTART;TZID=Europe/Madrid:20250630T000000
+DTEND;TZID=Europe/Madrid:20250630T235959
+DTSTAMP:20250630T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/cloud-native-kubernetes-ai-day/
+LOCATION:Atlanta\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Native University North America
+DTSTART;TZID=Europe/Madrid:20250630T000000
+DTEND;TZID=Europe/Madrid:20250630T235959
+DTSTAMP:20250630T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/cloud-native-university/
+LOCATION:Atlanta\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data on Kubernetes Day North America
+DTSTART;TZID=Europe/Madrid:20250630T000000
+DTEND;TZID=Europe/Madrid:20250630T235959
+DTSTAMP:20250630T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/data-on-kubernetes-day/
+LOCATION:Atlanta\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EnvoyCon North America
+DTSTART;TZID=Europe/Madrid:20250630T000000
+DTEND;TZID=Europe/Madrid:20250630T235959
+DTSTAMP:20250630T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/envoycon/
+LOCATION:Atlanta\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FluxCon North America
+DTSTART;TZID=Europe/Madrid:20250630T000000
+DTEND;TZID=Europe/Madrid:20250630T235959
+DTSTAMP:20250630T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/fluxcon/
+LOCATION:Atlanta\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Istio Day North America
+DTSTART;TZID=Europe/Madrid:20250630T000000
+DTEND;TZID=Europe/Madrid:20250630T235959
+DTSTAMP:20250630T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/istio-day/
+LOCATION:Atlanta\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kubeflow Summit North America
+DTSTART;TZID=Europe/Madrid:20250630T000000
+DTEND;TZID=Europe/Madrid:20250630T235959
+DTSTAMP:20250630T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/kubeflow-summit/
+LOCATION:Atlanta\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kubernetes on Edge Day North America
+DTSTART;TZID=Europe/Madrid:20250630T000000
+DTEND;TZID=Europe/Madrid:20250630T235959
+DTSTAMP:20250630T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/kubernetes-on-edge-day/
+LOCATION:Atlanta\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KyvernoCon North America
+DTSTART;TZID=Europe/Madrid:20250630T000000
+DTEND;TZID=Europe/Madrid:20250630T235959
+DTSTAMP:20250630T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/kyvernocon/
+LOCATION:Atlanta\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Observability Day North America
+DTSTART;TZID=Europe/Madrid:20250630T000000
+DTEND;TZID=Europe/Madrid:20250630T235959
+DTSTAMP:20250630T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/observability-day/
+LOCATION:Atlanta\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Source SecurityCon North America
+DTSTART;TZID=Europe/Madrid:20250630T000000
+DTEND;TZID=Europe/Madrid:20250630T235959
+DTSTAMP:20250630T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/open-source-securitycon/
+LOCATION:Atlanta\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OpenFeature Summit North America
+DTSTART;TZID=Europe/Madrid:20250630T000000
+DTEND;TZID=Europe/Madrid:20250630T235959
+DTSTAMP:20250630T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/openfeature-summit/
+LOCATION:Atlanta\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OpenTofu Day North America
+DTSTART;TZID=Europe/Madrid:20250630T000000
+DTEND;TZID=Europe/Madrid:20250630T235959
+DTSTAMP:20250630T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/opentofu-day/
+LOCATION:Atlanta\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Platform Engineering Day North America
+DTSTART;TZID=Europe/Madrid:20250630T000000
+DTEND;TZID=Europe/Madrid:20250630T235959
+DTSTAMP:20250630T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/platform-engineering-day/
+LOCATION:Atlanta\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WasmCon North America
+DTSTART;TZID=Europe/Madrid:20250630T000000
+DTEND;TZID=Europe/Madrid:20250630T235959
+DTSTAMP:20250630T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/wasmcon/
+LOCATION:Atlanta\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
