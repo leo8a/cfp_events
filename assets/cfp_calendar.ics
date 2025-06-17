@@ -48,6 +48,15 @@ LOCATION:Santa Clara\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cephalocon
+DTSTART;TZID=Europe/Madrid:20250713T000000
+DTEND;TZID=Europe/Madrid:20250713T235959
+DTSTAMP:20250713T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/cephalocon/
+LOCATION:Vancouver\, C
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:JupyterCon
 DTSTART;TZID=Europe/Madrid:20250714T000000
 DTEND;TZID=Europe/Madrid:20250714T235959
