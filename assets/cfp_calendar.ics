@@ -67,9 +67,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Source Summit Korea
-DTSTART;TZID=Europe/Madrid:20250630T000000
-DTEND;TZID=Europe/Madrid:20250630T235959
-DTSTAMP:20250630T001500Z
+DTSTART;TZID=Europe/Madrid:20250803T000000
+DTEND;TZID=Europe/Madrid:20250803T235959
+DTSTAMP:20250803T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/open-source-summit-korea/
 LOCATION:Seoul\, South Kore
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
