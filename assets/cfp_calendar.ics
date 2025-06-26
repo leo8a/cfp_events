@@ -319,6 +319,15 @@ LOCATION:Tokyo\, Jap
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OpenSearchCon Japan
+DTSTART;TZID=Europe/Madrid:20250810T000000
+DTEND;TZID=Europe/Madrid:20250810T235959
+DTSTAMP:20250810T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/opensearchcon-japan/
+LOCATION:Tokyo\, Jap
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:KubeVirt Summit 2023
 DTSTART;TZID=Europe/Madrid:20230202T000000
 DTEND;TZID=Europe/Madrid:20230202T235959
