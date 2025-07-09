@@ -12,6 +12,16 @@ LOCATION:Virtual
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EnvoyCon Virtual
+DTSTART;TZID=Europe/Madrid:20250709T000000
+DTEND;TZID=Europe/Madrid:20250709T235959
+DTSTAMP:20250709T001500Z
+DESCRIPTION:https://community.cncf.io/events/details/cncf-virtual-project-
+ events-hosted-by-cncf-presents-virtual-envoycon-2025/
+LOCATION:Virtual
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Source in Finance Forum New York
 DTSTART;TZID=Europe/Madrid:20250727T000000
 DTEND;TZID=Europe/Madrid:20250727T235959
