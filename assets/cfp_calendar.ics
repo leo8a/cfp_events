@@ -70,9 +70,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cephalocon
-DTSTART;TZID=Europe/Madrid:20250713T000000
-DTEND;TZID=Europe/Madrid:20250713T235959
-DTSTAMP:20250713T001500Z
+DTSTART;TZID=Europe/Madrid:20250716T000000
+DTEND;TZID=Europe/Madrid:20250716T235959
+DTSTAMP:20250716T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/cephalocon/
 LOCATION:Vancouver\, C
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
