@@ -42,6 +42,15 @@ LOCATION:New York\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PromCon Europe
+DTSTART;TZID=Europe/Madrid:20250721T000000
+DTEND;TZID=Europe/Madrid:20250721T235959
+DTSTAMP:20250721T001500Z
+DESCRIPTION:https://promcon.io/
+LOCATION:Munich\, Germany
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PyTorch Conference
 DTSTART;TZID=Europe/Madrid:20250801T000000
 DTEND;TZID=Europe/Madrid:20250801T235959
@@ -80,9 +89,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OpenSearchCon Korea
-DTSTART;TZID=Europe/Madrid:20250803T000000
-DTEND;TZID=Europe/Madrid:20250803T235959
-DTSTAMP:20250803T001500Z
+DTSTART;TZID=Europe/Madrid:20250817T000000
+DTEND;TZID=Europe/Madrid:20250817T235959
+DTSTAMP:20250817T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/opensearchcon-korea/
 LOCATION:Seoul\, South Kore
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
@@ -153,9 +162,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OpenSearchCon Japan
-DTSTART;TZID=Europe/Madrid:20250810T000000
-DTEND;TZID=Europe/Madrid:20250810T235959
-DTSTAMP:20250810T001500Z
+DTSTART;TZID=Europe/Madrid:20250824T000000
+DTEND;TZID=Europe/Madrid:20250824T235959
+DTSTAMP:20250824T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/opensearchcon-japan/
 LOCATION:Tokyo\, Jap
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
