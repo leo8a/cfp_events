@@ -42,15 +42,6 @@ LOCATION:New York\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PromCon Europe
-DTSTART;TZID=Europe/Madrid:20250721T000000
-DTEND;TZID=Europe/Madrid:20250721T235959
-DTSTAMP:20250721T001500Z
-DESCRIPTION:https://promcon.io/
-LOCATION:Munich\, Germany
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PyTorch Conference
 DTSTART;TZID=Europe/Madrid:20250801T000000
 DTEND;TZID=Europe/Madrid:20250801T235959
@@ -76,15 +67,6 @@ DTSTAMP:20250810T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/lf-europe-roadshow-regulati
  on/
 LOCATION:Ghent\, Belgium
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JupyterCon
-DTSTART;TZID=Europe/Madrid:20250721T000000
-DTEND;TZID=Europe/Madrid:20250721T235959
-DTSTAMP:20250721T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/jupytercon/
-LOCATION:San Diego\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
