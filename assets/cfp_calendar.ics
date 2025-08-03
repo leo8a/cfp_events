@@ -32,15 +32,6 @@ LOCATION:Virtual
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PyTorch Conference
-DTSTART;TZID=Europe/Madrid:20250801T000000
-DTEND;TZID=Europe/Madrid:20250801T235959
-DTSTAMP:20250801T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/pytorch-conference/
-LOCATION:San Francisco\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Linux Foundation Europe Member Summit
 DTSTART;TZID=Europe/Madrid:20250810T000000
 DTEND;TZID=Europe/Madrid:20250810T235959
@@ -107,9 +98,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:gRPConf India
-DTSTART;TZID=Europe/Madrid:20250804T000000
-DTEND;TZID=Europe/Madrid:20250804T235959
-DTSTAMP:20250804T001500Z
+DTSTART;TZID=Europe/Madrid:20250820T000000
+DTEND;TZID=Europe/Madrid:20250820T235959
+DTSTAMP:20250820T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/grpconf-india/
 LOCATION:Bengaluru\, Indi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
