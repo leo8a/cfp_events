@@ -11,15 +11,6 @@ LOCATION:San Jose\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OpenSearchCon Korea
-DTSTART;TZID=Europe/Madrid:20250817T000000
-DTEND;TZID=Europe/Madrid:20250817T235959
-DTSTAMP:20250817T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/opensearchcon-korea/
-LOCATION:Seoul\, South Kore
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PX4 Developer Summit
 DTSTART;TZID=Europe/Madrid:20251001T000000
 DTEND;TZID=Europe/Madrid:20251001T235959
@@ -35,15 +26,6 @@ DTEND;TZID=Europe/Madrid:20250820T235959
 DTSTAMP:20250820T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/grpconf-india/
 LOCATION:Bengaluru\, Indi
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Compliance Summit
-DTSTART;TZID=Europe/Madrid:20250817T000000
-DTEND;TZID=Europe/Madrid:20250817T235959
-DTSTAMP:20250817T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/open-compliance-summit/
-LOCATION:Tokyo\, Jap
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
