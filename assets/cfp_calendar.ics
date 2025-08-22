@@ -20,12 +20,13 @@ LOCATION:Atlanta\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:gRPConf India
-DTSTART;TZID=Europe/Madrid:20250820T000000
-DTEND;TZID=Europe/Madrid:20250820T235959
-DTSTAMP:20250820T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/grpconf-india/
-LOCATION:Bengaluru\, Indi
+SUMMARY:CozySummit Virtual
+DTSTART;TZID=Europe/Madrid:20250914T000000
+DTEND;TZID=Europe/Madrid:20250914T235959
+DTSTAMP:20250914T001500Z
+DESCRIPTION:https://community.cncf.io/events/details/cncf-virtual-project-
+ events-hosted-by-cncf-presents-cozysummit-virtual-2025/
+LOCATION:Virtual
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
