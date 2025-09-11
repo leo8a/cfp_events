@@ -21,12 +21,142 @@ LOCATION:Virtual
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ArgoCon Europe
+DTSTART;TZID=Europe/Madrid:20251102T000000
+DTEND;TZID=Europe/Madrid:20251102T235959
+DTSTAMP:20251102T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/co-located-events/argocon/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BackstageCon Europe
+DTSTART;TZID=Europe/Madrid:20251102T000000
+DTEND;TZID=Europe/Madrid:20251102T235959
+DTSTAMP:20251102T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/co-located-events/backstagecon/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CiliumCon Europe
+DTSTART;TZID=Europe/Madrid:20251102T000000
+DTEND;TZID=Europe/Madrid:20251102T235959
+DTSTAMP:20251102T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/co-located-events/ciliumcon/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Native Telco Day Europe
+DTSTART;TZID=Europe/Madrid:20251102T000000
+DTEND;TZID=Europe/Madrid:20251102T235959
+DTSTAMP:20251102T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/co-located-events/cloud-native-telco-day/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FluxCon Europe
+DTSTART;TZID=Europe/Madrid:20251102T000000
+DTEND;TZID=Europe/Madrid:20251102T235959
+DTSTAMP:20251102T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/co-located-events/fluxcon/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KeycloakCon Europe
+DTSTART;TZID=Europe/Madrid:20251102T000000
+DTEND;TZID=Europe/Madrid:20251102T235959
+DTSTAMP:20251102T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/co-located-events/keycloakcon/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:KubeCon + CloudNativeCon Europe
 DTSTART;TZID=Europe/Madrid:20251012T000000
 DTEND;TZID=Europe/Madrid:20251012T235959
 DTSTAMP:20251012T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
  pe/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kubernetes AI Summit with Kubeflow Europe
+DTSTART;TZID=Europe/Madrid:20251102T000000
+DTEND;TZID=Europe/Madrid:20251102T235959
+DTSTAMP:20251102T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/co-located-events/kubernetes-ai-summit-with-kubeflow/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kubernetes on Edge Day Europe
+DTSTART;TZID=Europe/Madrid:20251102T000000
+DTEND;TZID=Europe/Madrid:20251102T235959
+DTSTAMP:20251102T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/co-located-events/kubernetes-on-edge-day/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KyvernoCon Europe
+DTSTART;TZID=Europe/Madrid:20251102T000000
+DTEND;TZID=Europe/Madrid:20251102T235959
+DTSTAMP:20251102T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/co-located-events/kyvernocon/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Observability Day Europe
+DTSTART;TZID=Europe/Madrid:20251102T000000
+DTEND;TZID=Europe/Madrid:20251102T235959
+DTSTAMP:20251102T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/co-located-events/observability-day/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Source SecurityCon Europe
+DTSTART;TZID=Europe/Madrid:20251102T000000
+DTEND;TZID=Europe/Madrid:20251102T235959
+DTSTAMP:20251102T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/co-located-events/open-source-securitycon/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Platform Engineering Day Europe
+DTSTART;TZID=Europe/Madrid:20251102T000000
+DTEND;TZID=Europe/Madrid:20251102T235959
+DTSTAMP:20251102T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/co-located-events/platform-engineering-day/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WasmCon Europe
+DTSTART;TZID=Europe/Madrid:20251102T000000
+DTEND;TZID=Europe/Madrid:20251102T235959
+DTSTAMP:20251102T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/co-located-events/wasmcon/
 LOCATION:Amsterdam\, Netherlands
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
