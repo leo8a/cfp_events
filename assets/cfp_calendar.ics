@@ -72,16 +72,6 @@ LOCATION:Amsterdam\, Netherlands
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KubeCon + CloudNativeCon Europe
-DTSTART;TZID=Europe/Madrid:20251012T000000
-DTEND;TZID=Europe/Madrid:20251012T235959
-DTSTAMP:20251012T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/
-LOCATION:Amsterdam\, Netherlands
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kubernetes on Edge Day Europe
 DTSTART;TZID=Europe/Madrid:20251102T000000
 DTEND;TZID=Europe/Madrid:20251102T235959
