@@ -152,6 +152,16 @@ LOCATION:Amsterdam\, Netherlands
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Observability Summit North America
+DTSTART;TZID=Europe/Madrid:20260126T000000
+DTEND;TZID=Europe/Madrid:20260126T235959
+DTSTAMP:20260126T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/observability-summit-north-
+ america/
+LOCATION:Minneapolis\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Container Days
 DTSTART;TZID=Europe/Madrid:20230331T000000
 DTEND;TZID=Europe/Madrid:20230331T235959
