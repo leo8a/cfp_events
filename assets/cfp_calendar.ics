@@ -20,6 +20,15 @@ LOCATION:Prague\, Czechi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AGL All Member Meeting Japan
+DTSTART;TZID=Europe/Madrid:20260322T000000
+DTEND;TZID=Europe/Madrid:20260322T235959
+DTSTAMP:20260322T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/agl-amm/
+LOCATION:Tokyo\, Jap
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Observability Summit North America
 DTSTART;TZID=Europe/Madrid:20260126T000000
 DTEND;TZID=Europe/Madrid:20260126T235959
