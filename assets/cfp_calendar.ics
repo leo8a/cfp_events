@@ -87,6 +87,16 @@ LOCATION:Mumbai\, Indi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Source in Finance Forum Toronto
+DTSTART;TZID=Europe/Madrid:20260208T000000
+DTEND;TZID=Europe/Madrid:20260208T235959
+DTSTAMP:20260208T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/open-source-finance-forum-t
+ oronto/
+LOCATION:Toronto\, C
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Container Days
 DTSTART;TZID=Europe/Madrid:20230331T000000
 DTEND;TZID=Europe/Madrid:20230331T235959
