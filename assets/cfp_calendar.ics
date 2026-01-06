@@ -29,6 +29,16 @@ LOCATION:Shanghai\, Chi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Sovereign Cloud Day Europe
+DTSTART;TZID=Europe/Madrid:20260106T000000
+DTEND;TZID=Europe/Madrid:20260106T235959
+DTSTAMP:20260106T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/co-located-events/open-sovereign-cloud-day/
+LOCATION:Amsterdam\, Netherlands
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MCP Dev Summit North America
 DTSTART;TZID=Europe/Madrid:20260122T000000
 DTEND;TZID=Europe/Madrid:20260122T235959
@@ -36,6 +46,16 @@ DTSTAMP:20260122T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/mcp-dev-summit-north-americ
  a/
 LOCATION:New York\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Source in Finance Forum Toronto
+DTSTART;TZID=Europe/Madrid:20260208T000000
+DTEND;TZID=Europe/Madrid:20260208T235959
+DTSTAMP:20260208T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/open-source-finance-forum-t
+ oronto/
+LOCATION:Toronto\, C
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
@@ -54,6 +74,26 @@ DTEND;TZID=Europe/Madrid:20260322T235959
 DTSTAMP:20260322T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/agl-amm/
 LOCATION:Tokyo\, Jap
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Embedded Linux Conference North America
+DTSTART;TZID=Europe/Madrid:20260208T000000
+DTEND;TZID=Europe/Madrid:20260208T235959
+DTSTAMP:20260208T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/embedded-linux-conference-n
+ orth-america/
+LOCATION:Minneapolis\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Source Summit North America
+DTSTART;TZID=Europe/Madrid:20260208T000000
+DTEND;TZID=Europe/Madrid:20260208T235959
+DTSTAMP:20260208T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/open-source-summit-north-am
+ erica/
+LOCATION:Minneapolis\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
@@ -84,16 +124,6 @@ DTSTAMP:20260201T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-indi
  a/
 LOCATION:Mumbai\, Indi
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Source in Finance Forum Toronto
-DTSTART;TZID=Europe/Madrid:20260208T000000
-DTEND;TZID=Europe/Madrid:20260208T235959
-DTSTAMP:20260208T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/open-source-finance-forum-t
- oronto/
-LOCATION:Toronto\, C
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
