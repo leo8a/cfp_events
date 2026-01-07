@@ -30,9 +30,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Sovereign Cloud Day Europe
-DTSTART;TZID=Europe/Madrid:20260106T000000
-DTEND;TZID=Europe/Madrid:20260106T235959
-DTSTAMP:20260106T001500Z
+DTSTART;TZID=Europe/Madrid:20260125T000000
+DTEND;TZID=Europe/Madrid:20260125T235959
+DTSTAMP:20260125T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
  pe/co-located-events/open-sovereign-cloud-day/
 LOCATION:Amsterdam\, Netherlands
