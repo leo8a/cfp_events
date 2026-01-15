@@ -41,6 +41,15 @@ LOCATION:Prague\, Czechi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DPDK Summit
+DTSTART;TZID=Europe/Madrid:20260222T000000
+DTEND;TZID=Europe/Madrid:20260222T235959
+DTSTAMP:20260222T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/dpdk-summit/
+LOCATION:Stockholm\, Swede
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AGL All Member Meeting Japan
 DTSTART;TZID=Europe/Madrid:20260322T000000
 DTEND;TZID=Europe/Madrid:20260322T235959
@@ -70,6 +79,16 @@ LOCATION:Minneapolis\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Linux Security Summit North America
+DTSTART;TZID=Europe/Madrid:20260315T000000
+DTEND;TZID=Europe/Madrid:20260315T235959
+DTSTAMP:20260315T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/linux-security-summit-north
+ -america/
+LOCATION:Minneapolis\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Observability Summit North America
 DTSTART;TZID=Europe/Madrid:20260126T000000
 DTEND;TZID=Europe/Madrid:20260126T235959
@@ -87,6 +106,15 @@ DTSTAMP:20260215T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/openssf-community-day-north
  -america/
 LOCATION:Minneapolis\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OpenSearchCon India
+DTSTART;TZID=Europe/Madrid:20260315T000000
+DTEND;TZID=Europe/Madrid:20260315T235959
+DTSTAMP:20260315T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/opensearchcon-india/
+LOCATION:Mumbai\, Indi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
