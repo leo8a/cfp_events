@@ -41,15 +41,6 @@ LOCATION:Toronto\, C
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OpenSearchCon Europe
-DTSTART;TZID=Europe/Madrid:20260119T000000
-DTEND;TZID=Europe/Madrid:20260119T235959
-DTSTAMP:20260119T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/opensearchcon-europe/
-LOCATION:Prague\, Czechi
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DPDK Summit
 DTSTART;TZID=Europe/Madrid:20260222T000000
 DTEND;TZID=Europe/Madrid:20260222T235959
@@ -134,6 +125,16 @@ DTSTAMP:20260201T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-indi
  a/
 LOCATION:Mumbai\, Indi
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KubeCon + CloudNativeCon Japan
+DTSTART;TZID=Europe/Madrid:20260329T000000
+DTEND;TZID=Europe/Madrid:20260329T235959
+DTSTAMP:20260329T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-japa
+ n/
+LOCATION:Yokohama\, Jap
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
