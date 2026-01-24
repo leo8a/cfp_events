@@ -12,16 +12,6 @@ LOCATION:Amsterdam\, Netherlands
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MCP Dev Summit North America
-DTSTART;TZID=Europe/Madrid:20260122T000000
-DTEND;TZID=Europe/Madrid:20260122T235959
-DTSTAMP:20260122T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/mcp-dev-summit-north-americ
- a/
-LOCATION:New York\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PyTorch Conference Europe
 DTSTART;TZID=Europe/Madrid:20260208T000000
 DTEND;TZID=Europe/Madrid:20260208T235959
