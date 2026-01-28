@@ -78,16 +78,6 @@ LOCATION:Minneapolis\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Observability Summit North America
-DTSTART;TZID=Europe/Madrid:20260126T000000
-DTEND;TZID=Europe/Madrid:20260126T235959
-DTSTAMP:20260126T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/observability-summit-north-
- america/
-LOCATION:Minneapolis\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:OpenSSF Community Day North America
 DTSTART;TZID=Europe/Madrid:20260215T000000
 DTEND;TZID=Europe/Madrid:20260215T235959
@@ -124,6 +114,15 @@ DTSTAMP:20260329T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-japa
  n/
 LOCATION:Yokohama\, Jap
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automotive Grade Linux All Member Meeting Europe
+DTSTART;TZID=Europe/Madrid:20260225T000000
+DTEND;TZID=Europe/Madrid:20260225T235959
+DTSTAMP:20260225T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/agl-amm-europe/
+LOCATION:Berlin\, Germany
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
