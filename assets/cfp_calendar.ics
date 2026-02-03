@@ -22,9 +22,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GraphQLConf
-DTSTART;TZID=Europe/Madrid:20260201T000000
-DTEND;TZID=Europe/Madrid:20260201T235959
-DTSTAMP:20260201T001500Z
+DTSTART;TZID=Europe/Madrid:20260211T000000
+DTEND;TZID=Europe/Madrid:20260211T235959
+DTSTAMP:20260211T001500Z
 DESCRIPTION:https://graphql.org/conf/2026/
 LOCATION:Menlo Park\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
@@ -93,16 +93,6 @@ DTSTART;TZID=Europe/Madrid:20260315T000000
 DTEND;TZID=Europe/Madrid:20260315T235959
 DTSTAMP:20260315T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/opensearchcon-india/
-LOCATION:Mumbai\, Indi
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KubeCon + CloudNativeCon India
-DTSTART;TZID=Europe/Madrid:20260201T000000
-DTEND;TZID=Europe/Madrid:20260201T235959
-DTSTAMP:20260201T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-indi
- a/
 LOCATION:Mumbai\, Indi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
