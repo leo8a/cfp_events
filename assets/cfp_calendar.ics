@@ -49,9 +49,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Embedded Linux Conference North America
-DTSTART;TZID=Europe/Madrid:20260208T000000
-DTEND;TZID=Europe/Madrid:20260208T235959
-DTSTAMP:20260208T001500Z
+DTSTART;TZID=Europe/Madrid:20260216T000000
+DTEND;TZID=Europe/Madrid:20260216T235959
+DTSTAMP:20260216T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/embedded-linux-conference-n
  orth-america/
 LOCATION:Minneapolis\, United States
@@ -59,9 +59,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Source Summit North America
-DTSTART;TZID=Europe/Madrid:20260208T000000
-DTEND;TZID=Europe/Madrid:20260208T235959
-DTSTAMP:20260208T001500Z
+DTSTART;TZID=Europe/Madrid:20260216T000000
+DTEND;TZID=Europe/Madrid:20260216T235959
+DTSTAMP:20260216T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/open-source-summit-north-am
  erica/
 LOCATION:Minneapolis\, United States
