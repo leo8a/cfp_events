@@ -97,6 +97,15 @@ LOCATION:Mumbai\, Indi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Source Summit India
+DTSTART;TZID=Europe/Madrid:20260305T000000
+DTEND;TZID=Europe/Madrid:20260305T235959
+DTSTAMP:20260305T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/open-source-summit-india/
+LOCATION:Mumbai\, Indi
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Source in Finance Forum London
 DTSTART;TZID=Europe/Madrid:20260315T000000
 DTEND;TZID=Europe/Madrid:20260315T235959
