@@ -11,6 +11,16 @@ LOCATION:Menlo Park\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:KyvernoCon Virtual
+DTSTART;TZID=Europe/Madrid:20260308T000000
+DTEND;TZID=Europe/Madrid:20260308T235959
+DTSTAMP:20260308T001500Z
+DESCRIPTION:https://community.cncf.io/events/details/cncf-virtual-project-
+ events-hosted-by-cncf-presents-kyvernocon-virtual-2026/
+LOCATION:Virtual
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DPDK Summit
 DTSTART;TZID=Europe/Madrid:20260222T000000
 DTEND;TZID=Europe/Madrid:20260222T235959
@@ -66,6 +76,16 @@ DTSTAMP:20260215T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/openssf-community-day-north
  -america/
 LOCATION:Minneapolis\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CozySummit Virtual
+DTSTART;TZID=Europe/Madrid:20260308T000000
+DTEND;TZID=Europe/Madrid:20260308T235959
+DTSTAMP:20260308T001500Z
+DESCRIPTION:https://community.cncf.io/events/details/cncf-virtual-project-
+ events-hosted-by-cncf-presents-cozysummit-virtual-2026/
+LOCATION:Virtual
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
