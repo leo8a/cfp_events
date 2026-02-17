@@ -70,16 +70,6 @@ LOCATION:Minneapolis\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OpenSSF Community Day North America
-DTSTART;TZID=Europe/Madrid:20260215T000000
-DTEND;TZID=Europe/Madrid:20260215T235959
-DTSTAMP:20260215T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/openssf-community-day-north
- -america/
-LOCATION:Minneapolis\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CozySummit Virtual
 DTSTART;TZID=Europe/Madrid:20260308T000000
 DTEND;TZID=Europe/Madrid:20260308T235959
