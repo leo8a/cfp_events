@@ -23,9 +23,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DPDK Summit
-DTSTART;TZID=Europe/Madrid:20260222T000000
-DTEND;TZID=Europe/Madrid:20260222T235959
-DTSTAMP:20260222T001500Z
+DTSTART;TZID=Europe/Madrid:20260301T000000
+DTEND;TZID=Europe/Madrid:20260301T235959
+DTSTAMP:20260301T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/dpdk-summit/
 LOCATION:Stockholm\, Swede
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
