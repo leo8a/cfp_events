@@ -98,6 +98,26 @@ LOCATION:Yokohama\, Jap
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Source Summit Korea
+DTSTART;TZID=Europe/Madrid:20260426T000000
+DTEND;TZID=Europe/Madrid:20260426T235959
+DTSTAMP:20260426T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/open-source-summit-korea/
+LOCATION:Seoul\, South Kore
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference C
+ hina
+DTSTART;TZID=Europe/Madrid:20260503T000000
+DTEND;TZID=Europe/Madrid:20260503T235959
+DTSTAMP:20260503T001500Z
+DESCRIPTION:https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-s
+ ummit-pytorch-conference-china/
+LOCATION:Shanghai\, Chi
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OpenSearchCon North America
 DTSTART;TZID=Europe/Madrid:20260510T000000
 DTEND;TZID=Europe/Madrid:20260510T235959
