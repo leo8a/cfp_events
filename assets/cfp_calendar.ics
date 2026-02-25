@@ -88,6 +88,26 @@ LOCATION:London\, Engl
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ArgoCon Japan
+DTSTART;TZID=Europe/Madrid:20260412T000000
+DTEND;TZID=Europe/Madrid:20260412T235959
+DTSTAMP:20260412T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-japa
+ n/co-located-events/argocon/
+LOCATION:Yokohama\, Jap
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KeyCloakCon Japan
+DTSTART;TZID=Europe/Madrid:20260412T000000
+DTEND;TZID=Europe/Madrid:20260412T235959
+DTSTAMP:20260412T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-japa
+ n/co-located-events/keycloakcon/
+LOCATION:Yokohama\, Jap
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:KubeCon + CloudNativeCon Japan
 DTSTART;TZID=Europe/Madrid:20260329T000000
 DTEND;TZID=Europe/Madrid:20260329T235959
