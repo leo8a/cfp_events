@@ -149,12 +149,21 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Automotive Grade Linux All Member Meeting Europe
-DTSTART;TZID=Europe/Madrid:20260225T000000
-DTEND;TZID=Europe/Madrid:20260225T235959
-DTSTAMP:20260225T001500Z
+DTSTART;TZID=Europe/Madrid:20260612T000000
+DTEND;TZID=Europe/Madrid:20260612T235959
+DTSTAMP:20260612T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/agl-amm-europe/
 LOCATION:Berlin\, Germany
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KubeVirt Summit 2023
+DTSTART;TZID=Europe/Madrid:20230202T000000
+DTEND;TZID=Europe/Madrid:20230202T235959
+DTSTAMP:20230202T000000Z
+DESCRIPTION:https://kubevirt.io/summit/
+LOCATION:Virtual
+ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Container Days
@@ -164,6 +173,15 @@ DTSTAMP:20230331T000000Z
 DESCRIPTION:https://sessionize.com/containerdays-2023
 LOCATION:Hamburg\, Germany
 ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codemotion Conference Madrid 2023
+DTSTART;TZID=Europe/Madrid:20230222T000000
+DTEND;TZID=Europe/Madrid:20230222T235959
+DTSTAMP:20230222T000000Z
+DESCRIPTION:https://extra.codemotion.com/madrid23-cfp/
+LOCATION:Madrid\, Spain
+ORGANIZER;NAME="Red Hat":MAILTO:speakers@codemotion.it
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Red Hat Summit
@@ -182,23 +200,5 @@ DTSTAMP:20230203T000000Z
 DESCRIPTION:https://forms.gle/XyEiVm65cqfQ6cQh8
 LOCATION:Virtual
 ORGANIZER;NAME="Red Hat":MAILTO:rh-networking-summit@redhat.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Codemotion Conference Madrid 2023
-DTSTART;TZID=Europe/Madrid:20230222T000000
-DTEND;TZID=Europe/Madrid:20230222T235959
-DTSTAMP:20230222T000000Z
-DESCRIPTION:https://extra.codemotion.com/madrid23-cfp/
-LOCATION:Madrid\, Spain
-ORGANIZER;NAME="Red Hat":MAILTO:speakers@codemotion.it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KubeVirt Summit 2023
-DTSTART;TZID=Europe/Madrid:20230202T000000
-DTEND;TZID=Europe/Madrid:20230202T235959
-DTSTAMP:20230202T000000Z
-DESCRIPTION:https://kubevirt.io/summit/
-LOCATION:Virtual
-ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
 END:VEVENT
 END:VCALENDAR
