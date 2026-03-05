@@ -61,9 +61,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Source Summit India
-DTSTART;TZID=Europe/Madrid:20260305T000000
-DTEND;TZID=Europe/Madrid:20260305T235959
-DTSTAMP:20260305T001500Z
+DTSTART;TZID=Europe/Madrid:20260306T000000
+DTEND;TZID=Europe/Madrid:20260306T235959
+DTSTAMP:20260306T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/open-source-summit-india/
 LOCATION:Mumbai\, Indi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
@@ -126,6 +126,15 @@ DTSTAMP:20260503T001500Z
 DESCRIPTION:https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-s
  ummit-pytorch-conference-china/
 LOCATION:Shanghai\, Chi
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Foundry Summit
+DTSTART;TZID=Europe/Madrid:20260607T000000
+DTEND;TZID=Europe/Madrid:20260607T235959
+DTSTAMP:20260607T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/cloud-foundry-summit/
+LOCATION:Heidelberg\, Germany
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
