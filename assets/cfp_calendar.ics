@@ -2,26 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
-SUMMARY:KyvernoCon Virtual
-DTSTART;TZID=Europe/Madrid:20260308T000000
-DTEND;TZID=Europe/Madrid:20260308T235959
-DTSTAMP:20260308T001500Z
-DESCRIPTION:https://community.cncf.io/events/details/cncf-virtual-project-
- events-hosted-by-cncf-presents-kyvernocon-virtual-2026/
-LOCATION:Virtual
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual EnvoyCon
-DTSTART;TZID=Europe/Madrid:20260308T000000
-DTEND;TZID=Europe/Madrid:20260308T235959
-DTSTAMP:20260308T001500Z
-DESCRIPTION:https://community.cncf.io/events/details/cncf-virtual-project-
- events-hosted-by-cncf-presents-virtual-envoycon-2026/
-LOCATION:Virtual
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AGL All Member Meeting Japan
 DTSTART;TZID=Europe/Madrid:20260322T000000
 DTEND;TZID=Europe/Madrid:20260322T235959
@@ -38,16 +18,6 @@ DTSTAMP:20260315T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/linux-security-summit-north
  -america/
 LOCATION:Minneapolis\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CozySummit Virtual
-DTSTART;TZID=Europe/Madrid:20260308T000000
-DTEND;TZID=Europe/Madrid:20260308T235959
-DTSTAMP:20260308T001500Z
-DESCRIPTION:https://community.cncf.io/events/details/cncf-virtual-project-
- events-hosted-by-cncf-presents-cozysummit-virtual-2026/
-LOCATION:Virtual
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
