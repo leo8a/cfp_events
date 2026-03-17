@@ -11,25 +11,6 @@ LOCATION:Tokyo\, Jap
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Linux Security Summit North America
-DTSTART;TZID=Europe/Madrid:20260315T000000
-DTEND;TZID=Europe/Madrid:20260315T235959
-DTSTAMP:20260315T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/linux-security-summit-north
- -america/
-LOCATION:Minneapolis\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OpenSearchCon India
-DTSTART;TZID=Europe/Madrid:20260315T000000
-DTEND;TZID=Europe/Madrid:20260315T235959
-DTSTAMP:20260315T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/opensearchcon-india/
-LOCATION:Mumbai\, Indi
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Confidential Computing Summit
 DTSTART;TZID=Europe/Madrid:20260408T000000
 DTEND;TZID=Europe/Madrid:20260408T235959
@@ -37,16 +18,6 @@ DTSTAMP:20260408T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/confidential-computing-summ
  it/
 LOCATION:San Francisco\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Source in Finance Forum London
-DTSTART;TZID=Europe/Madrid:20260315T000000
-DTEND;TZID=Europe/Madrid:20260315T235959
-DTSTAMP:20260315T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/open-source-finance-forum-l
- ondon/
-LOCATION:London\, Engl
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
