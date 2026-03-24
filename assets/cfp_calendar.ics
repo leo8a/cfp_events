@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
-SUMMARY:AGL All Member Meeting Japan
-DTSTART;TZID=Europe/Madrid:20260322T000000
-DTEND;TZID=Europe/Madrid:20260322T235959
-DTSTAMP:20260322T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/agl-amm/
-LOCATION:Tokyo\, Jap
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Confidential Computing Summit
 DTSTART;TZID=Europe/Madrid:20260408T000000
 DTEND;TZID=Europe/Madrid:20260408T235959
@@ -72,9 +63,9 @@ ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LF Energy Summit Europe
-DTSTART;TZID=Europe/Madrid:20260323T000000
-DTEND;TZID=Europe/Madrid:20260323T235959
-DTSTAMP:20260323T001500Z
+DTSTART;TZID=Europe/Madrid:20260525T000000
+DTEND;TZID=Europe/Madrid:20260525T235959
+DTSTAMP:20260525T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/lfenergysummit-europe/
 LOCATION:Berlin\, Germany
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
