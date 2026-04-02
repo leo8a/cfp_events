@@ -99,6 +99,26 @@ LOCATION:Berlin\, Germany
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PyTorch Conference North America
+DTSTART;TZID=Europe/Madrid:20260726T000000
+DTEND;TZID=Europe/Madrid:20260726T235959
+DTSTAMP:20260726T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/pytorch-conference-north-am
+ erica/
+LOCATION:San Jose\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AGNTCon + MCPCon North America
+DTSTART;TZID=Europe/Madrid:20260608T000000
+DTEND;TZID=Europe/Madrid:20260608T235959
+DTSTAMP:20260608T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/agntcon-mcpcon-north-americ
+ a/
+LOCATION:San Jose\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Codemotion Conference Madrid 2023
 DTSTART;TZID=Europe/Madrid:20230222T000000
 DTEND;TZID=Europe/Madrid:20230222T235959
