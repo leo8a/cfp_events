@@ -182,6 +182,16 @@ LOCATION:San Jose\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:KubeCon + CloudNativeCon North America
+DTSTART;TZID=Europe/Madrid:20260531T000000
+DTEND;TZID=Europe/Madrid:20260531T235959
+DTSTAMP:20260531T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/
+LOCATION:Salt Lake City\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MCP Dev Summit Nairobi
 DTSTART;TZID=Europe/Madrid:20260831T000000
 DTEND;TZID=Europe/Madrid:20260831T235959
