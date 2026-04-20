@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
-SUMMARY:Open Source Policy & Ecosystem Forum
-DTSTART;TZID=Europe/Madrid:20260418T000000
-DTEND;TZID=Europe/Madrid:20260418T235959
-DTSTAMP:20260418T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/open-source-policy-ecosyste
- m-forum/
-LOCATION:Brussels\, Belgium
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MCP Dev Summit Bengaluru
 DTSTART;TZID=Europe/Madrid:20260420T000000
 DTEND;TZID=Europe/Madrid:20260420T235959
