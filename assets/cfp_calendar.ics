@@ -11,15 +11,6 @@ LOCATION:Los Angeles\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MCP Dev Summit Seoul
-DTSTART;TZID=Europe/Madrid:20260501T000000
-DTEND;TZID=Europe/Madrid:20260501T235959
-DTSTAMP:20260501T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/mcp-dev-summit-seoul/
-LOCATION:Seoul\, Kore
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MCP Dev Summit Shanghai
 DTSTART;TZID=Europe/Madrid:20260529T000000
 DTEND;TZID=Europe/Madrid:20260529T235959
