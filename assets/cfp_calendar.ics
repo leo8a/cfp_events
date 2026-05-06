@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
 SUMMARY:Open Source Days
-DTSTART;TZID=Europe/Madrid:20260517T000000
-DTEND;TZID=Europe/Madrid:20260517T235959
-DTSTAMP:20260517T001500Z
+DTSTART;TZID=Europe/Madrid:20260524T000000
+DTEND;TZID=Europe/Madrid:20260524T235959
+DTSTAMP:20260524T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/open-source-days/
 LOCATION:Los Angeles\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
@@ -84,6 +84,35 @@ LOCATION:Toronto\, C
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OpenSSF Community Day Europe
+DTSTART;TZID=Europe/Madrid:20260612T000000
+DTEND;TZID=Europe/Madrid:20260612T235959
+DTSTAMP:20260612T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/openssf-community-day-europ
+ e/
+LOCATION:Prague\, Czechi
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Embedded Linux Conference Europe
+DTSTART;TZID=Europe/Madrid:20260624T000000
+DTEND;TZID=Europe/Madrid:20260624T235959
+DTSTAMP:20260624T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/embedded-linux-conference-e
+ urope/
+LOCATION:Prague\, Czechi
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Source Summit Europe
+DTSTART;TZID=Europe/Madrid:20260624T000000
+DTEND;TZID=Europe/Madrid:20260624T235959
+DTSTAMP:20260624T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/open-source-summit-europe/
+LOCATION:Prague\, Czechi
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Linux Security Summit Europe
 DTSTART;TZID=Europe/Madrid:20260628T000000
 DTEND;TZID=Europe/Madrid:20260628T235959
@@ -139,6 +168,34 @@ DTEND;TZID=Europe/Madrid:20260831T235959
 DTSTAMP:20260831T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/mcp-dev-summit-nairobi/
 LOCATION:Nairobi\, Keny
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automotive Linux Summit
+DTSTART;TZID=Europe/Madrid:20260824T000000
+DTEND;TZID=Europe/Madrid:20260824T235959
+DTSTAMP:20260824T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/automotive-linux-summit/
+LOCATION:Tokyo\, Jap
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Embedded Linux Conference Asia
+DTSTART;TZID=Europe/Madrid:20260824T000000
+DTEND;TZID=Europe/Madrid:20260824T235959
+DTSTAMP:20260824T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/embedded-linux-conference-a
+ sia/
+LOCATION:Tokyo\, Jap
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Source Summit Japan
+DTSTART;TZID=Europe/Madrid:20260824T000000
+DTEND;TZID=Europe/Madrid:20260824T235959
+DTSTAMP:20260824T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/open-source-summit-japan/
+LOCATION:Tokyo\, Jap
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
