@@ -152,12 +152,112 @@ LOCATION:San Jose\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Agentics Day: MCP + Agents North America
+DTSTART;TZID=Europe/Madrid:20260621T000000
+DTEND;TZID=Europe/Madrid:20260621T235959
+DTSTAMP:20260621T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/agentics-day-mcp-agents/
+LOCATION:Salt Lake City\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ArgoCon North America
+DTSTART;TZID=Europe/Madrid:20260621T000000
+DTEND;TZID=Europe/Madrid:20260621T235959
+DTSTAMP:20260621T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/argocon/
+LOCATION:Salt Lake City\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BackstageCon North America
+DTSTART;TZID=Europe/Madrid:20260621T000000
+DTEND;TZID=Europe/Madrid:20260621T235959
+DTSTAMP:20260621T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/backstagecon/
+LOCATION:Salt Lake City\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CiliumCon North America
+DTSTART;TZID=Europe/Madrid:20260621T000000
+DTEND;TZID=Europe/Madrid:20260621T235959
+DTSTAMP:20260621T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/ciliumcon/
+LOCATION:Salt Lake City\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Native AI & Inference Day North America
+DTSTART;TZID=Europe/Madrid:20260621T000000
+DTEND;TZID=Europe/Madrid:20260621T235959
+DTSTAMP:20260621T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/cloud-native-ai-inference-day/
+LOCATION:Salt Lake City\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FluxCon North America
+DTSTART;TZID=Europe/Madrid:20260621T000000
+DTEND;TZID=Europe/Madrid:20260621T235959
+DTSTAMP:20260621T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/fluxcon/
+LOCATION:Salt Lake City\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:KubeCon + CloudNativeCon North America
 DTSTART;TZID=Europe/Madrid:20260531T000000
 DTEND;TZID=Europe/Madrid:20260531T235959
 DTSTAMP:20260531T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
  h-america/
+LOCATION:Salt Lake City\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kubernetes on Edge Day North America
+DTSTART;TZID=Europe/Madrid:20260621T000000
+DTEND;TZID=Europe/Madrid:20260621T235959
+DTSTAMP:20260621T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/kubernetes-on-edge-day/
+LOCATION:Salt Lake City\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Observability Day North America
+DTSTART;TZID=Europe/Madrid:20260621T000000
+DTEND;TZID=Europe/Madrid:20260621T235959
+DTSTAMP:20260621T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/observability-day/
+LOCATION:Salt Lake City\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Source SecurityCon North America
+DTSTART;TZID=Europe/Madrid:20260621T000000
+DTEND;TZID=Europe/Madrid:20260621T235959
+DTSTAMP:20260621T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/open-source-securitycon/
+LOCATION:Salt Lake City\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Platform Engineering Day North America
+DTSTART;TZID=Europe/Madrid:20260621T000000
+DTEND;TZID=Europe/Madrid:20260621T235959
+DTSTAMP:20260621T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
+ h-america/co-located-events/platform-engineering-day/
 LOCATION:Salt Lake City\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
