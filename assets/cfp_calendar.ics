@@ -56,16 +56,6 @@ LOCATION:Heidelberg\, Germany
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OpenSearchCon North America
-DTSTART;TZID=Europe/Madrid:20260510T000000
-DTEND;TZID=Europe/Madrid:20260510T235959
-DTSTAMP:20260510T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/opensearchcon-north-america
- /
-LOCATION:San Jose\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Automotive Grade Linux All Member Meeting Europe
 DTSTART;TZID=Europe/Madrid:20260612T000000
 DTEND;TZID=Europe/Madrid:20260612T235959
