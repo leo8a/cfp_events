@@ -56,6 +56,16 @@ LOCATION:Berlin\, Germany
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:kcpCON
+DTSTART;TZID=Europe/Madrid:20260712T000000
+DTEND;TZID=Europe/Madrid:20260712T235959
+DTSTAMP:20260712T001500Z
+DESCRIPTION:https://community2.cncf.io/events/details/cncf-virtual-project
+ -events-hosted-by-cncf-presents-kcpcon-2026/
+LOCATION:Virtual
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MCP Dev Summit Toronto
 DTSTART;TZID=Europe/Madrid:20260714T000000
 DTEND;TZID=Europe/Madrid:20260714T235959
