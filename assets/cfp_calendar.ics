@@ -75,6 +75,16 @@ LOCATION:Toronto\, C
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Observability Summit Europe
+DTSTART;TZID=Europe/Madrid:20260707T000000
+DTEND;TZID=Europe/Madrid:20260707T235959
+DTSTAMP:20260707T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/observability-summit-europe
+ /
+LOCATION:Prague\, Czechi
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OpenSSF Community Day Europe
 DTSTART;TZID=Europe/Madrid:20260612T000000
 DTEND;TZID=Europe/Madrid:20260612T235959
