@@ -38,15 +38,6 @@ LOCATION:Amsterdam\, Netherlands
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cloud Foundry Summit
-DTSTART;TZID=Europe/Madrid:20260607T000000
-DTEND;TZID=Europe/Madrid:20260607T235959
-DTSTAMP:20260607T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/cloud-foundry-summit/
-LOCATION:Heidelberg\, Germany
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Automotive Grade Linux All Member Meeting Europe
 DTSTART;TZID=Europe/Madrid:20260612T000000
 DTEND;TZID=Europe/Madrid:20260612T235959
