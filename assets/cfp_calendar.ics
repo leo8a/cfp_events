@@ -29,15 +29,6 @@ LOCATION:Tokyo\, Jap
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AGNTCon + MCPCon Europe
-DTSTART;TZID=Europe/Madrid:20260608T000000
-DTEND;TZID=Europe/Madrid:20260608T235959
-DTSTAMP:20260608T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/agntcon-mcpcon-europe/
-LOCATION:Amsterdam\, Netherlands
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Automotive Grade Linux All Member Meeting Europe
 DTSTART;TZID=Europe/Madrid:20260612T000000
 DTEND;TZID=Europe/Madrid:20260612T235959
@@ -130,16 +121,6 @@ DTEND;TZID=Europe/Madrid:20260726T235959
 DTSTAMP:20260726T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/pytorch-conference-north-am
  erica/
-LOCATION:San Jose\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AGNTCon + MCPCon North America
-DTSTART;TZID=Europe/Madrid:20260608T000000
-DTEND;TZID=Europe/Madrid:20260608T235959
-DTSTAMP:20260608T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/agntcon-mcpcon-north-americ
- a/
 LOCATION:San Jose\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
