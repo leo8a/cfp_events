@@ -87,6 +87,15 @@ LOCATION:Prague\, Czechi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PromCon Europe
+DTSTART;TZID=Europe/Madrid:20260713T000000
+DTEND;TZID=Europe/Madrid:20260713T235959
+DTSTAMP:20260713T001500Z
+DESCRIPTION:https://promcon.io/2026-munich/
+LOCATION:Munich\, Germany
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Linux Security Summit Europe
 DTSTART;TZID=Europe/Madrid:20260628T000000
 DTEND;TZID=Europe/Madrid:20260628T235959
