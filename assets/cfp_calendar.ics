@@ -89,6 +89,17 @@ LOCATION:Prague\, Czechi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Virtual EnvoyCon 10 Year Anniversary Edition
+DTSTART;TZID=Europe/Madrid:20260722T000000
+DTEND;TZID=Europe/Madrid:20260722T235959
+DTSTAMP:20260722T001500Z
+DESCRIPTION:https://community2.cncf.io/events/details/cncf-virtual-project
+ -events-hosted-by-cncf-presents-virtual-envoycon-10-year-anniversary-editi
+ on/
+LOCATION:Virtual
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:KubeVirt Summit Virtual
 DTSTART;TZID=Europe/Madrid:20260722T000000
 DTEND;TZID=Europe/Madrid:20260722T235959
