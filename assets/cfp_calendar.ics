@@ -79,16 +79,6 @@ LOCATION:Virtual
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Linux Security Summit Europe
-DTSTART;TZID=Europe/Madrid:20260628T000000
-DTEND;TZID=Europe/Madrid:20260628T235959
-DTSTAMP:20260628T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/linux-security-summit-europ
- e/
-LOCATION:Prague\, Czechi
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual EnvoyCon 10 Year Anniversary Edition
 DTSTART;TZID=Europe/Madrid:20260722T000000
 DTEND;TZID=Europe/Madrid:20260722T235959
