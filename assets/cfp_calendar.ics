@@ -13,6 +13,15 @@ LOCATION:Shanghai\, Chi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Voice Agents Forum
+DTSTART;TZID=Europe/Madrid:20260724T000000
+DTEND;TZID=Europe/Madrid:20260724T235959
+DTSTAMP:20260724T001500Z
+DESCRIPTION:https://luma.com/voiceagentssf
+LOCATION:San Francisco\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:kcpCON
 DTSTART;TZID=Europe/Madrid:20260712T000000
 DTEND;TZID=Europe/Madrid:20260712T235959
@@ -29,16 +38,6 @@ DTEND;TZID=Europe/Madrid:20260714T235959
 DTSTAMP:20260714T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/mcp-dev-summit-toronto/
 LOCATION:Toronto\, C
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Observability Summit Europe
-DTSTART;TZID=Europe/Madrid:20260707T000000
-DTEND;TZID=Europe/Madrid:20260707T235959
-DTSTAMP:20260707T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/observability-summit-europe
- /
-LOCATION:Prague\, Czechi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
