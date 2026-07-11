@@ -99,6 +99,16 @@ LOCATION:Virtual
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OCUDU Ecosystem Developer Summit
+DTSTART;TZID=Europe/Madrid:20260817T000000
+DTEND;TZID=Europe/Madrid:20260817T235959
+DTSTAMP:20260817T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/ocudu-ecosystem-developer-s
+ ummit-north-america/
+LOCATION:Alexandria\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PyTorch Conference North America
 DTSTART;TZID=Europe/Madrid:20260726T000000
 DTEND;TZID=Europe/Madrid:20260726T235959
