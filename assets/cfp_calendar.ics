@@ -2,33 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
-SUMMARY:OSPOlogy + OSPO Summit China
-DTSTART;TZID=Europe/Madrid:20260712T000000
-DTEND;TZID=Europe/Madrid:20260712T235959
-DTSTAMP:20260712T001500Z
-DESCRIPTION:https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-s
- ummit-pytorch-conference-china/co-located-events/ospology-ospo-summit/#abo
- ut
-LOCATION:Shanghai\, Chi
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Voice Agents Forum
 DTSTART;TZID=Europe/Madrid:20260724T000000
 DTEND;TZID=Europe/Madrid:20260724T235959
 DTSTAMP:20260724T001500Z
 DESCRIPTION:https://luma.com/voiceagentssf
 LOCATION:San Francisco\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:kcpCON
-DTSTART;TZID=Europe/Madrid:20260712T000000
-DTEND;TZID=Europe/Madrid:20260712T235959
-DTSTAMP:20260712T001500Z
-DESCRIPTION:https://community2.cncf.io/events/details/cncf-virtual-project
- -events-hosted-by-cncf-presents-kcpcon-2026/
-LOCATION:Virtual
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
@@ -55,6 +34,16 @@ DTSTART;TZID=Europe/Madrid:20260721T000000
 DTEND;TZID=Europe/Madrid:20260721T235959
 DTSTAMP:20260721T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/lf-member-european-forum/
+LOCATION:Prague\, Czechi
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OpenSSF Community Day Europe
+DTSTART;TZID=Europe/Madrid:20260719T000000
+DTEND;TZID=Europe/Madrid:20260719T235959
+DTSTAMP:20260719T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/openssf-community-day-europ
+ e/
 LOCATION:Prague\, Czechi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
