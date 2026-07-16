@@ -11,15 +11,6 @@ LOCATION:San Francisco\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MCP Dev Summit Toronto
-DTSTART;TZID=Europe/Madrid:20260714T000000
-DTEND;TZID=Europe/Madrid:20260714T235959
-DTSTAMP:20260714T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/mcp-dev-summit-toronto/
-LOCATION:Toronto\, C
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ValkeyConf
 DTSTART;TZID=Europe/Madrid:20260802T000000
 DTEND;TZID=Europe/Madrid:20260802T235959
@@ -165,15 +156,6 @@ LOCATION:Tokyo\, Jap
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Container Days
-DTSTART;TZID=Europe/Madrid:20230331T000000
-DTEND;TZID=Europe/Madrid:20230331T235959
-DTSTAMP:20230331T000000Z
-DESCRIPTION:https://sessionize.com/containerdays-2023
-LOCATION:Hamburg\, Germany
-ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Red Hat Summit
 DTSTART;TZID=Europe/Madrid:20230111T000000
 DTEND;TZID=Europe/Madrid:20230111T235959
@@ -190,6 +172,15 @@ DTSTAMP:20230203T000000Z
 DESCRIPTION:https://forms.gle/XyEiVm65cqfQ6cQh8
 LOCATION:Virtual
 ORGANIZER;NAME="Red Hat":MAILTO:rh-networking-summit@redhat.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Container Days
+DTSTART;TZID=Europe/Madrid:20230331T000000
+DTEND;TZID=Europe/Madrid:20230331T235959
+DTSTAMP:20230331T000000Z
+DESCRIPTION:https://sessionize.com/containerdays-2023
+LOCATION:Hamburg\, Germany
+ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Codemotion Conference Madrid 2023
