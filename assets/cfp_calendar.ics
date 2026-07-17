@@ -16,7 +16,7 @@ DTSTART;TZID=Europe/Madrid:20260802T000000
 DTEND;TZID=Europe/Madrid:20260802T235959
 DTSTAMP:20260802T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/valkeyconf/
-LOCATION:Prague\, Czech Republic
+LOCATION:Prague\, Czechi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
@@ -39,10 +39,19 @@ LOCATION:Prague\, Czechi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PromCon Europe
+DTSTART;TZID=Europe/Madrid:20260719T000000
+DTEND;TZID=Europe/Madrid:20260719T235959
+DTSTAMP:20260719T001500Z
+DESCRIPTION:https://promcon.io/2026-munich/
+LOCATION:Munich\, Germany
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dapr Day Virtual
-DTSTART;TZID=Europe/Madrid:20260715T000000
-DTEND;TZID=Europe/Madrid:20260715T235959
-DTSTAMP:20260715T001500Z
+DTSTART;TZID=Europe/Madrid:20260719T000000
+DTEND;TZID=Europe/Madrid:20260719T235959
+DTSTAMP:20260719T001500Z
 DESCRIPTION:https://community2.cncf.io/events/details/cncf-virtual-project
  -events-hosted-by-cncf-presents-dapr-day/
 LOCATION:Virtual
