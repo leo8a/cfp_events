@@ -29,35 +29,6 @@ LOCATION:Prague\, Czechi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OpenSSF Community Day Europe
-DTSTART;TZID=Europe/Madrid:20260719T000000
-DTEND;TZID=Europe/Madrid:20260719T235959
-DTSTAMP:20260719T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/openssf-community-day-europ
- e/
-LOCATION:Prague\, Czechi
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PromCon Europe
-DTSTART;TZID=Europe/Madrid:20260719T000000
-DTEND;TZID=Europe/Madrid:20260719T235959
-DTSTAMP:20260719T001500Z
-DESCRIPTION:https://promcon.io/2026-munich/
-LOCATION:Munich\, Germany
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dapr Day Virtual
-DTSTART;TZID=Europe/Madrid:20260719T000000
-DTEND;TZID=Europe/Madrid:20260719T235959
-DTSTAMP:20260719T001500Z
-DESCRIPTION:https://community2.cncf.io/events/details/cncf-virtual-project
- -events-hosted-by-cncf-presents-dapr-day/
-LOCATION:Virtual
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual EnvoyCon 10 Year Anniversary Edition
 DTSTART;TZID=Europe/Madrid:20260722T000000
 DTEND;TZID=Europe/Madrid:20260722T235959
@@ -76,6 +47,15 @@ DTSTAMP:20260722T001500Z
 DESCRIPTION:https://community2.cncf.io/events/details/cncf-virtual-project
  -events-hosted-by-cncf-presents-kubevirt-summit-2026/
 LOCATION:Virtual
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OPI Summit on DPU/IPUs
+DTSTART;TZID=Europe/Madrid:20260823T000000
+DTEND;TZID=Europe/Madrid:20260823T235959
+DTSTAMP:20260823T001500Z
+DESCRIPTION:https://opiproject.org/event/opi-summit-on-dpu-ipus-2/
+LOCATION:San Jose\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
@@ -106,16 +86,6 @@ DTSTAMP:20260726T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/open-source-finance-forum-n
  ew-york/
 LOCATION:New York\, United States
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maintainer Summit
-DTSTART;TZID=Europe/Madrid:20260719T000000
-DTEND;TZID=Europe/Madrid:20260719T235959
-DTSTAMP:20260719T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-nort
- h-america/features-add-ons/maintainer-summit/
-LOCATION:Salt Lake City\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
