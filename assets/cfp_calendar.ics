@@ -20,15 +20,6 @@ LOCATION:Prague\, Czechi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Linux Foundation Member European Forum
-DTSTART;TZID=Europe/Madrid:20260721T000000
-DTEND;TZID=Europe/Madrid:20260721T235959
-DTSTAMP:20260721T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/lf-member-european-forum/
-LOCATION:Prague\, Czechi
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual EnvoyCon 10 Year Anniversary Edition
 DTSTART;TZID=Europe/Madrid:20260722T000000
 DTEND;TZID=Europe/Madrid:20260722T235959
