@@ -11,15 +11,6 @@ LOCATION:San Jose\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MCP Dev Summit Nairobi
-DTSTART;TZID=Europe/Madrid:20260831T000000
-DTEND;TZID=Europe/Madrid:20260831T235959
-DTSTAMP:20260831T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/mcp-dev-summit-nairobi/
-LOCATION:Nairobi\, Keny
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PyTorch Day Japan
 DTSTART;TZID=Europe/Madrid:20260927T000000
 DTEND;TZID=Europe/Madrid:20260927T235959
