@@ -130,6 +130,16 @@ LOCATION:Barcelona\, Spai
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Source SecurityCon Europe
+DTSTART;TZID=Europe/Madrid:20261018T000000
+DTEND;TZID=Europe/Madrid:20261018T235959
+DTSTAMP:20261018T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
+ pe/co-located-events/open-source-securitycon/
+LOCATION:Barcelona\, Spai
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Sovereign AI + Cloud Day Europe
 DTSTART;TZID=Europe/Madrid:20261018T000000
 DTEND;TZID=Europe/Madrid:20261018T235959
