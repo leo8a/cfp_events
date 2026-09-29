@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
-SUMMARY:PyTorch Day Japan
-DTSTART;TZID=Europe/Madrid:20260927T000000
-DTEND;TZID=Europe/Madrid:20260927T235959
-DTSTAMP:20260927T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/pytorch-day-japan/
-LOCATION:Tokyo\, Jap
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Agentics Day: MCP + Agents Europe
 DTSTART;TZID=Europe/Madrid:20261018T000000
 DTEND;TZID=Europe/Madrid:20261018T235959
