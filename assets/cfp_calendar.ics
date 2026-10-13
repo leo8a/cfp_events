@@ -91,16 +91,6 @@ LOCATION:Barcelona\, Spai
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KubeCon + CloudNativeCon Europe
-DTSTART;TZID=Europe/Madrid:20261011T000000
-DTEND;TZID=Europe/Madrid:20261011T235959
-DTSTAMP:20261011T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/
-LOCATION:Barcelona\, Spai
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kubernetes on Edge Day Europe
 DTSTART;TZID=Europe/Madrid:20261018T000000
 DTEND;TZID=Europe/Madrid:20261018T235959
