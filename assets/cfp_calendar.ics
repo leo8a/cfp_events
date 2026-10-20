@@ -2,155 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:<CFP Calendar>
 BEGIN:VEVENT
-SUMMARY:React Conf Ghana 2026
-DTSTART;TZID=Europe/Madrid:20261018T000000
-DTEND;TZID=Europe/Madrid:20261018T235959
-DTSTAMP:20261018T001500Z
-DESCRIPTION:https://ghana2026.react.foundation/
-LOCATION:Accra\, Gh
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agentics Day: MCP + Agents Europe
-DTSTART;TZID=Europe/Madrid:20261018T000000
-DTEND;TZID=Europe/Madrid:20261018T235959
-DTSTAMP:20261018T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/co-located-events/agentics-day-mcp-agents/
-LOCATION:Barcelona\, Spai
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ArgoCon Europe
-DTSTART;TZID=Europe/Madrid:20261018T000000
-DTEND;TZID=Europe/Madrid:20261018T235959
-DTSTAMP:20261018T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/co-located-events/argocon/
-LOCATION:Barcelona\, Spai
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BackstageCon Europe
-DTSTART;TZID=Europe/Madrid:20261018T000000
-DTEND;TZID=Europe/Madrid:20261018T235959
-DTSTAMP:20261018T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/co-located-events/backstagecon/
-LOCATION:Barcelona\, Spai
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Buildpacks Summit Europe
-DTSTART;TZID=Europe/Madrid:20261018T000000
-DTEND;TZID=Europe/Madrid:20261018T235959
-DTSTAMP:20261018T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/co-located-events/buildpacks-summit/
-LOCATION:Barcelona\, Spai
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CiliumCon Europe
-DTSTART;TZID=Europe/Madrid:20261018T000000
-DTEND;TZID=Europe/Madrid:20261018T235959
-DTSTAMP:20261018T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/co-located-events/ciliumcon/
-LOCATION:Barcelona\, Spai
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cloud Native AI + Inference Day Europe
-DTSTART;TZID=Europe/Madrid:20261018T000000
-DTEND;TZID=Europe/Madrid:20261018T235959
-DTSTAMP:20261018T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/co-located-events/cloud-native-ai-inference-day-europe/
-LOCATION:Barcelona\, Spai
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FluxCon Europe
-DTSTART;TZID=Europe/Madrid:20261018T000000
-DTEND;TZID=Europe/Madrid:20261018T235959
-DTSTAMP:20261018T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/co-located-events/fluxcon/
-LOCATION:Barcelona\, Spai
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KeyCloakCon Europe
-DTSTART;TZID=Europe/Madrid:20261018T000000
-DTEND;TZID=Europe/Madrid:20261018T235959
-DTSTAMP:20261018T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/co-located-events/keycloakcon/
-LOCATION:Barcelona\, Spai
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kubernetes on Edge Day Europe
-DTSTART;TZID=Europe/Madrid:20261018T000000
-DTEND;TZID=Europe/Madrid:20261018T235959
-DTSTAMP:20261018T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/co-located-events/kubernetes-on-edge-day/
-LOCATION:Barcelona\, Spai
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Observability Day Europe
-DTSTART;TZID=Europe/Madrid:20261018T000000
-DTEND;TZID=Europe/Madrid:20261018T235959
-DTSTAMP:20261018T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/co-located-events/observability-day/
-LOCATION:Barcelona\, Spai
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Source SecurityCon Europe
-DTSTART;TZID=Europe/Madrid:20261018T000000
-DTEND;TZID=Europe/Madrid:20261018T235959
-DTSTAMP:20261018T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/co-located-events/open-source-securitycon/
-LOCATION:Barcelona\, Spai
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Sovereign AI + Cloud Day Europe
-DTSTART;TZID=Europe/Madrid:20261018T000000
-DTEND;TZID=Europe/Madrid:20261018T235959
-DTSTAMP:20261018T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/co-located-events/open-sovereign-ai-cloud-day/
-LOCATION:Barcelona\, Spai
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OpenTofu Day Europe
-DTSTART;TZID=Europe/Madrid:20261018T000000
-DTEND;TZID=Europe/Madrid:20261018T235959
-DTSTAMP:20261018T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/co-located-events/opentofu-day/
-LOCATION:Barcelona\, Spai
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Platform Engineering Day Europe
-DTSTART;TZID=Europe/Madrid:20261018T000000
-DTEND;TZID=Europe/Madrid:20261018T235959
-DTSTAMP:20261018T001500Z
-DESCRIPTION:https://events.linuxfoundation.org/kubecon-cloudnativecon-euro
- pe/co-located-events/platform-engineering-day/
-LOCATION:Barcelona\, Spai
-ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HPSF Conference
 DTSTART;TZID=Europe/Madrid:20270117T000000
 DTEND;TZID=Europe/Madrid:20270117T235959
@@ -158,24 +9,6 @@ DTSTAMP:20270117T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/hpsf-conference/
 LOCATION:Montreal\, C
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Red Hat Summit
-DTSTART;TZID=Europe/Madrid:20230111T000000
-DTEND;TZID=Europe/Madrid:20230111T235959
-DTSTAMP:20230111T000000Z
-DESCRIPTION:https://www.redhat.com/en/summit
-LOCATION:Boston\, United States
-ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Red Hat Networking Summit 2023
-DTSTART;TZID=Europe/Madrid:20230203T000000
-DTEND;TZID=Europe/Madrid:20230203T235959
-DTSTAMP:20230203T000000Z
-DESCRIPTION:https://forms.gle/XyEiVm65cqfQ6cQh8
-LOCATION:Virtual
-ORGANIZER;NAME="Red Hat":MAILTO:rh-networking-summit@redhat.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KubeVirt Summit 2023
@@ -194,6 +27,24 @@ DTSTAMP:20230222T000000Z
 DESCRIPTION:https://extra.codemotion.com/madrid23-cfp/
 LOCATION:Madrid\, Spain
 ORGANIZER;NAME="Red Hat":MAILTO:speakers@codemotion.it
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red Hat Summit
+DTSTART;TZID=Europe/Madrid:20230111T000000
+DTEND;TZID=Europe/Madrid:20230111T235959
+DTSTAMP:20230111T000000Z
+DESCRIPTION:https://www.redhat.com/en/summit
+LOCATION:Boston\, United States
+ORGANIZER;NAME="Red Hat":MAILTO:events@redhat.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red Hat Networking Summit 2023
+DTSTART;TZID=Europe/Madrid:20230203T000000
+DTEND;TZID=Europe/Madrid:20230203T235959
+DTSTAMP:20230203T000000Z
+DESCRIPTION:https://forms.gle/XyEiVm65cqfQ6cQh8
+LOCATION:Virtual
+ORGANIZER;NAME="Red Hat":MAILTO:rh-networking-summit@redhat.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Container Days
