@@ -11,6 +11,15 @@ LOCATION:Los Angeles\, United States
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Linux Foundation Member Summit
+DTSTART;TZID=Europe/Madrid:20261119T000000
+DTEND;TZID=Europe/Madrid:20261119T235959
+DTSTAMP:20261119T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/lf-member-summit/
+LOCATION:Half Moon Bay\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NeoCloudCon Europe
 DTSTART;TZID=Europe/Madrid:20261130T000000
 DTEND;TZID=Europe/Madrid:20261130T235959
@@ -37,6 +46,25 @@ DTSTAMP:20270118T001500Z
 DESCRIPTION:https://events.linuxfoundation.org/agntcon-mcpcon-north-americ
  a/
 LOCATION:San Francisco\, United States
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AGL All Member Meeting Japan
+DTSTART;TZID=Europe/Madrid:20270321T000000
+DTEND;TZID=Europe/Madrid:20270321T235959
+DTSTAMP:20270321T001500Z
+DESCRIPTION:https://events.linuxfoundation.org/agl-amm/
+LOCATION:Tokyo\, Jap
+ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Nexus China Featuring: AGNTSummit + KubeCon + CloudNativeCon 
+ + PyTorch Conference
+DTSTART;TZID=Europe/Madrid:20270110T000000
+DTEND;TZID=Europe/Madrid:20270110T235959
+DTSTAMP:20270110T001500Z
+DESCRIPTION:https://www.lfopensource.cn/open-nexus-china/
+LOCATION:Shanghai\, Chi
 ORGANIZER;NAME="Linux Foundation":MAILTO:events@linuxfoundation.org
 END:VEVENT
 BEGIN:VEVENT
